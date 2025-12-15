@@ -1,4 +1,3 @@
-import React from "react";
 import TableHeader from "../components/TableHeader";
 import { TableContext } from "../components/TableContext";
 import { generateMockData } from "../utils";
@@ -12,16 +11,16 @@ const data = generateMockData().slice(0, 30);
 
 const baseValue = {
   searchTerm: "",
-  setSearchTerm: (t: string) => {},
+  setSearchTerm: (_: string) => {},
   selectedIds: new Set<string>(),
   startIndex: 0,
   endIndex: 10,
   filteredAndSortedData: data,
   data,
-  handleMarkViewed: (v: boolean) => {},
+  handleMarkViewed: (_: boolean) => {},
   serverFailed: true,
   useLocalData: false,
-  toggleUseLocalData: (f?: boolean) => {},
+  toggleUseLocalData: (_?: boolean) => {},
 };
 
 export const Default = () => (

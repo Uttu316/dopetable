@@ -1,4 +1,3 @@
-import React from "react";
 import TableHead from "../components/TableHead";
 import { TableContext } from "../components/TableContext";
 

@@ -1,4 +1,3 @@
-import React from "react";
 import VirtualizedTableBody from "../components/VirtualizedTableBody";
 import { generateMockData } from "../utils";
 

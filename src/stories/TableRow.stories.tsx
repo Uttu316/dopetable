@@ -1,4 +1,3 @@
-import React from "react";
 import TableRow from "../components/TableRow";
 import { generateMockData } from "../utils";
 

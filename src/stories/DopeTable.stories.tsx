@@ -1,4 +1,3 @@
-import React from "react";
 import { TableContext } from "../components/TableContext";
 import { generateMockData } from "../utils";
 import TableHeader from "../components/TableHeader";
@@ -33,16 +32,16 @@ const providerValue = {
   allSelected: false,
   someSelected: false,
   handleScroll: () => {},
-  setSearchTerm: (t: string) => {},
-  handleSelectAll: (c: boolean) => {},
-  handleSelectRow: (id: string, c: boolean) => {},
-  toggleHealthFilter: (h: any) => {},
+  setSearchTerm: (_: string) => {},
+  handleSelectAll: (_: boolean) => {},
+  handleSelectRow: (_: string, __: boolean) => {},
+  toggleHealthFilter: (_: any) => {},
   toggleSort: () => {},
-  handleMarkViewed: (v: boolean) => {},
-  setShowHealthFilter: (s: boolean) => {},
-  getHealthBadgeColor: (h: any) => "",
+  handleMarkViewed: (_: boolean) => {},
+  setShowHealthFilter: (_: boolean) => {},
+  getHealthBadgeColor: (_: any) => "",
   toggleShowHealthFilter: () => {},
-  toggleUseLocalData: (f?: boolean) => {},
+  toggleUseLocalData: (_?: boolean) => {},
 };
 
 export const Default = () => (
