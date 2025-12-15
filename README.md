@@ -1,5 +1,7 @@
 # DopeTable - Character Database
 
+## ProductIon URL: [Visit DopeTable](https://dainty-parfait-132faf.netlify.app/)
+
 A modern, performant React application for browsing a database of characters with advanced filtering, searching, and virtualized scrolling capabilities.
 
 ## Features
