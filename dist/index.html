@@ -20,15 +20,186 @@
           ),
           linear-gradient(180deg, #020617 0%, #020617 100%);
       }
+
+      /* Premium Glass Header */
+      .glass-header-top {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 9999;
+        backdrop-filter: blur(20px) saturate(180%);
+        -webkit-backdrop-filter: blur(20px) saturate(180%);
+        background: linear-gradient(
+          180deg,
+          rgba(255, 255, 255, 0.1),
+          rgba(255, 255, 255, 0.04)
+        );
+        border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+      }
+
+      .header-container {
+        max-width: 100%;
+        margin: 0 auto;
+        padding: 0 24px;
+        height: 70px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+
+      .header-left {
+        font-size: 28px;
+        font-weight: 600;
+        background: linear-gradient(135deg, #ffffff 0%, #e0e7ff 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        letter-spacing: -0.5px;
+      }
+
+      .header-nav {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+      }
+
+      .header-link {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        padding: 8px 16px;
+        border-radius: 12px;
+        background: rgba(255, 255, 255, 0.08);
+        border: 1px solid rgba(255, 255, 255, 0.12);
+        color: rgba(255, 255, 255, 0.85);
+        text-decoration: none;
+        font-size: 13px;
+        font-weight: 500;
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        cursor: pointer;
+        backdrop-filter: blur(10px);
+      }
+
+      .header-link:hover {
+        background: rgba(255, 255, 255, 0.15);
+        border-color: rgba(255, 255, 255, 0.25);
+        color: white;
+        transform: translateY(-2px);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+      }
+
+      .header-link:active {
+        transform: translateY(0);
+      }
+
+      /* Responsive */
+      @media (max-width: 768px) {
+        .header-container {
+          padding: 0 16px;
+          height: 60px;
+        }
+
+        .header-left {
+          font-size: 20px;
+        }
+
+        .header-link {
+          padding: 6px 12px;
+          font-size: 12px;
+          gap: 6px;
+        }
+
+        .header-nav {
+          gap: 8px;
+        }
+      }
+
+      @media (max-width: 480px) {
+        .header-container {
+          padding: 0 12px;
+          height: 56px;
+        }
+
+        .header-left {
+          font-size: 18px;
+        }
+
+        .header-link {
+          padding: 5px 10px;
+          font-size: 11px;
+        }
+
+        .header-nav {
+          gap: 6px;
+        }
+      }
+
+      /* Adjust root for header */
+      #root {
+        padding-top: 70px;
+      }
+
+      @media (max-width: 768px) {
+        #root {
+          padding-top: 60px;
+        }
+      }
+
+      @media (max-width: 480px) {
+        #root {
+          padding-top: 56px;
+        }
+      }
     </style>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>dopetable</title>
     <script type="module" crossorigin src="/assets/index-BNndSQCf.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-yf-C3sPA.css">
+    <link rel="stylesheet" crossorigin href="/assets/index-yf-C3sPA.css" />
   </head>
   <body>
+    <!-- Premium Glass Header -->
+    <header class="glass-header-top">
+      <div class="header-container">
+        <div class="header-left">Hello</div>
+        <nav class="header-nav">
+          <a
+            href="https://www.linkedin.com/in/utkarsh-gupta-032223147/"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="header-link"
+            title="Visit Utkarsh Gupta's LinkedIn"
+          >
+            <span>👤</span>
+            <span>LinkedIn</span>
+          </a>
+          <a
+            href="./storybook-static/index.html"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="header-link"
+            title="View Storybook"
+          >
+            <span>📖</span>
+            <span>Storybook</span>
+          </a>
+          <a
+            href="./testReport/report.html"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="header-link"
+            title="View Test Results"
+          >
+            <span>✅</span>
+            <span>Tests</span>
+          </a>
+        </nav>
+      </div>
+    </header>
+
     <div id="root"></div>
   </body>
 </html>
