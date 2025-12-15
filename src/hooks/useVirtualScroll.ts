@@ -12,7 +12,10 @@ export function useVirtualScroll(filteredData: Character[]) {
     throttleRef.current = true;
     const target = e.currentTarget as HTMLDivElement;
     setScrollTop(target.scrollTop);
-    setTimeout(() => (throttleRef.current = false), 16);
+    setTimeout(() => {
+      throttleRef.current = false;
+      setScrollTop(target.scrollTop);
+    }, 16);
   }, []);
 
   useEffect(() => {

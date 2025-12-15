@@ -1,0 +1,1 @@
+import"./jsx-runtime-u17CrQMm.js";import{r as e}from"./iframe-eB3W52V0.js";const o=e.createContext(void 0),s=()=>{const t=e.useContext(o);if(!t)throw new Error("useTableContext must be used within a TableProvider");return t};export{o as T,s as u};
