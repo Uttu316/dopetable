@@ -1,0 +1,216 @@
+@import "tailwindcss";
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light;
+  color: rgba(0, 0, 0, 0.87);
+  background-color: #f8fafc;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Professional Dashboard Color Palette */
+  --color-primary: #1e40af; /* Blue-800 */
+  --color-primary-light: #3b82f6; /* Blue-500 */
+  --color-primary-dark: #1e3a8a; /* Blue-900 */
+  --color-secondary: #64748b; /* Slate-500 */
+  --color-accent: #f59e0b; /* Amber-500 */
+  --color-success: #10b981; /* Emerald-500 */
+  --color-warning: #f59e0b; /* Amber-500 */
+  --color-error: #ef4444; /* Red-500 */
+  --color-background: #f8fafc; /* Slate-50 */
+  --color-surface: #ffffff; /* White */
+  --color-surface-secondary: #f1f5f9; /* Slate-100 */
+  --color-text-primary: #0f172a; /* Slate-900 */
+  --color-text-secondary: #64748b; /* Slate-500 */
+  --color-border: #e2e8f0; /* Slate-200 */
+  --color-border-light: #f1f5f9; /* Slate-100 */
+}
+
+#root {
+  min-height: 100vh;
+}
+
+/* Glass UI Styles */
+.glass-container {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.14),
+    rgba(255, 255, 255, 0.06)
+  );
+  backdrop-filter: blur(24px) saturate(180%);
+  -webkit-backdrop-filter: blur(24px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 20px;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.45),
+    inset 0 1px 0 rgba(255, 255, 255, 0.25);
+  overflow: hidden;
+}
+tbody {
+  min-height: 500px;
+}
+
+.glass-header {
+  background: rgba(255, 255, 255, 0.06);
+  backdrop-filter: blur(18px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+  padding: 16px;
+}
+.glass-table {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(15px);
+}
+
+.glass-thead {
+  background: rgba(255, 255, 255, 0.16);
+  backdrop-filter: blur(20px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.22);
+}
+.glass-tbody tr {
+  background: rgba(255, 255, 255, 0.03);
+  transition: background 0.15s ease;
+}
+
+.glass-tbody tr:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+.glass-tbody tr td,
+.glass-thead tr th {
+  padding: 10px;
+}
+
+.glass-input {
+  background: rgba(255, 255, 255, 0.14);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  border-radius: 14px;
+  color: white;
+  padding: 10px 14px;
+  font-weight: 500;
+  transition: border-color 0.2s ease, background 0.2s ease;
+  padding-left: 38px;
+  margin: 12px 0px;
+}
+
+.glass-input::placeholder {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.glass-input:focus {
+  background: rgba(255, 255, 255, 0.18);
+  border-color: rgba(99, 102, 241, 0.6);
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.25);
+}
+.glass-button {
+  background: rgba(255, 255, 255, 0.14);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  border-radius: 14px;
+  padding: 10px 16px;
+  font-weight: 600;
+  color: white;
+  cursor: pointer;
+  transition: all 0.2s ease, border-color 0.2s ease;
+}
+
+.glass-button:disabled {
+  opacity: 0.45;
+}
+.glass-button:active {
+  background: #10b981;
+  transform: scale(1.1px);
+}
+.btn-unviewed:active {
+  background: rgba(16, 185, 129, 0.2);
+}
+.glass-badge-healthy {
+  padding: 4px 6px;
+  background: rgba(16, 185, 129, 0.2);
+  color: #10b981;
+  border: 1px solid rgba(16, 185, 129, 0.3);
+}
+
+.glass-badge-injured {
+  padding: 4px 6px;
+  background: rgba(245, 158, 11, 0.2);
+  color: #f59e0b;
+  border: 1px solid rgba(245, 158, 11, 0.3);
+}
+
+.glass-badge-critical {
+  padding: 4px 6px;
+  background: rgba(239, 68, 68, 0.2);
+  color: #ef4444;
+  border: 1px solid rgba(239, 68, 68, 0.3);
+}
+
+.glass-filter-dropdown {
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(15px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 8px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+}
+
+.glass-loading {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(20px);
+  border-radius: 16px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+}
+.glass-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.glass-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.glass-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.35);
+  border-radius: 10px;
+}
+
+.glass-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.55);
+}
+
+input[type="checkbox"] {
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 5px;
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  background: rgba(255, 255, 255, 0.1);
+  cursor: pointer;
+  display: grid;
+  place-content: center;
+}
+
+input[type="checkbox"]:checked {
+  background: linear-gradient(135deg, #6366f1, #22d3ee);
+  border-color: transparent;
+}
+
+input[type="checkbox"]:checked::after {
+  content: "";
+  width: 6px;
+  height: 6px;
+  border-radius: 2px;
+  background: white;
+}
+
+.empty-state {
+  min-height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgba(255, 255, 255, 0.65);
+  font-size: 15px;
+  letter-spacing: 0.3px;
+}

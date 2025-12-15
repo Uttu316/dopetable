@@ -1,0 +1,7004 @@
+{
+  "characters": [
+    {
+      "id": "char_0_3wnfk98dm",
+      "name": "Naruto",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 5515
+    },
+    {
+      "id": "char_1_vopc41j1d",
+      "name": "Sasuke",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 9654
+    },
+    {
+      "id": "char_2_y2u5z3rve",
+      "name": "Sakura",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 8568
+    },
+    {
+      "id": "char_3_vxr25khqf",
+      "name": "Kakashi",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 4531
+    },
+    {
+      "id": "char_4_3pma443wf",
+      "name": "Hinata",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 2509
+    },
+    {
+      "id": "char_5_anmdcl9q4",
+      "name": "Rock Lee",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 847
+    },
+    {
+      "id": "char_6_qim5lhw2e",
+      "name": "Neji",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 825
+    },
+    {
+      "id": "char_7_9ld4tgma9",
+      "name": "Tenten",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 1862
+    },
+    {
+      "id": "char_8_0s92h7x62",
+      "name": "Gaara",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 8143
+    },
+    {
+      "id": "char_9_2gxc2jo8f",
+      "name": "Temari",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 5645
+    },
+    {
+      "id": "char_10_ogpcifwpl",
+      "name": "Kankuro",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 2817
+    },
+    {
+      "id": "char_11_nwfrabkxj",
+      "name": "Shikamaru",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 7013
+    },
+    {
+      "id": "char_12_b80t15lbi",
+      "name": "Ino",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 5999
+    },
+    {
+      "id": "char_13_63sdzzcha",
+      "name": "Choji",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 2553
+    },
+    {
+      "id": "char_14_dunzs0wyw",
+      "name": "Kiba",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 6362
+    },
+    {
+      "id": "char_15_6n1km26i1",
+      "name": "Shino",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 1275
+    },
+    {
+      "id": "char_16_xyi3orec6",
+      "name": "Zabuza",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 3861
+    },
+    {
+      "id": "char_17_n7jmxgwyy",
+      "name": "Haku",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 3494
+    },
+    {
+      "id": "char_18_sncwtps7b",
+      "name": "Kisame",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 1138
+    },
+    {
+      "id": "char_19_sod9gkmb3",
+      "name": "Itachi",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 1222
+    },
+    {
+      "id": "char_20_30hzh9crs",
+      "name": "Deidara",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 7264
+    },
+    {
+      "id": "char_21_9afegpcie",
+      "name": "Sasori",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 7363
+    },
+    {
+      "id": "char_22_54fd82iye",
+      "name": "Orochimaru",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 381
+    },
+    {
+      "id": "char_23_cmqtm8989",
+      "name": "Jiraiya",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 1442
+    },
+    {
+      "id": "char_24_lwdu18kdx",
+      "name": "Tsunade",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 665
+    },
+    {
+      "id": "char_25_bnlv8hfrw",
+      "name": "Minato",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 7912
+    },
+    {
+      "id": "char_26_uygnedzha",
+      "name": "Kushina",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 7941
+    },
+    {
+      "id": "char_27_6b9oj0kxm",
+      "name": "Obito",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 3974
+    },
+    {
+      "id": "char_28_zxrrwa8qc",
+      "name": "Rin",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 7108
+    },
+    {
+      "id": "char_29_qxvhd82fj",
+      "name": "Yamato",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 2343
+    },
+    {
+      "id": "char_30_s5pkeb92z",
+      "name": "Asuma",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 9993
+    },
+    {
+      "id": "char_31_uy3ib4ow6",
+      "name": "Kurenai",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 5704
+    },
+    {
+      "id": "char_32_r7pqibok2",
+      "name": "Might Guy",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 9850
+    },
+    {
+      "id": "char_33_x1u1mgbtq",
+      "name": "Anko",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 3466
+    },
+    {
+      "id": "char_34_urhbkxpww",
+      "name": "Iruka",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 4015
+    },
+    {
+      "id": "char_35_8fim772w3",
+      "name": "Konohamaru",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 7254
+    },
+    {
+      "id": "char_36_l587wu8in",
+      "name": "Hanabi",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 1520
+    },
+    {
+      "id": "char_37_ygn9nzdqa",
+      "name": "Karin",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 9142
+    },
+    {
+      "id": "char_38_hb29rku34",
+      "name": "Suigetsu",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 7180
+    },
+    {
+      "id": "char_39_36a7zsvxq",
+      "name": "Jugo",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 9901
+    },
+    {
+      "id": "char_40_t4l1my5od",
+      "name": "Naruto 1",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 5799
+    },
+    {
+      "id": "char_41_no3tk1wx6",
+      "name": "Sasuke 1",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 6767
+    },
+    {
+      "id": "char_42_l3hwqd9q3",
+      "name": "Sakura 1",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 8662
+    },
+    {
+      "id": "char_43_ehv1r516y",
+      "name": "Kakashi 1",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 4341
+    },
+    {
+      "id": "char_44_xt0zt6jen",
+      "name": "Hinata 1",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 5552
+    },
+    {
+      "id": "char_45_dsmg8l61e",
+      "name": "Rock Lee 1",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 2356
+    },
+    {
+      "id": "char_46_htmns2s8o",
+      "name": "Neji 1",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 8621
+    },
+    {
+      "id": "char_47_mjzuglrob",
+      "name": "Tenten 1",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 8558
+    },
+    {
+      "id": "char_48_3g8v8gbpn",
+      "name": "Gaara 1",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 3542
+    },
+    {
+      "id": "char_49_wpsmxbfhw",
+      "name": "Temari 1",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 983
+    },
+    {
+      "id": "char_50_brtvs1lkr",
+      "name": "Kankuro 1",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 6017
+    },
+    {
+      "id": "char_51_ytk8yifne",
+      "name": "Shikamaru 1",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 2713
+    },
+    {
+      "id": "char_52_n51hp5ucj",
+      "name": "Ino 1",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 4131
+    },
+    {
+      "id": "char_53_6tuz4s0j4",
+      "name": "Choji 1",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 8565
+    },
+    {
+      "id": "char_54_bss0a7y4r",
+      "name": "Kiba 1",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 7597
+    },
+    {
+      "id": "char_55_9z71319up",
+      "name": "Shino 1",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 2504
+    },
+    {
+      "id": "char_56_ze3ncjvod",
+      "name": "Zabuza 1",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 7991
+    },
+    {
+      "id": "char_57_jt35aorvu",
+      "name": "Haku 1",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 9263
+    },
+    {
+      "id": "char_58_cze2ryfda",
+      "name": "Kisame 1",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 5990
+    },
+    {
+      "id": "char_59_up329fm0d",
+      "name": "Itachi 1",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 9503
+    },
+    {
+      "id": "char_60_yvis0dhqf",
+      "name": "Deidara 1",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 103
+    },
+    {
+      "id": "char_61_6fd0a23c3",
+      "name": "Sasori 1",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 3064
+    },
+    {
+      "id": "char_62_vowc1zril",
+      "name": "Orochimaru 1",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 2847
+    },
+    {
+      "id": "char_63_ppuse1v4j",
+      "name": "Jiraiya 1",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 4306
+    },
+    {
+      "id": "char_64_kyqfb4b9n",
+      "name": "Tsunade 1",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 9400
+    },
+    {
+      "id": "char_65_mx4jyurnm",
+      "name": "Minato 1",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 4727
+    },
+    {
+      "id": "char_66_d36z9d8zo",
+      "name": "Kushina 1",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 2931
+    },
+    {
+      "id": "char_67_ee6j1aogy",
+      "name": "Obito 1",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 5415
+    },
+    {
+      "id": "char_68_c2nrndexk",
+      "name": "Rin 1",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 6875
+    },
+    {
+      "id": "char_69_8nby6dw6q",
+      "name": "Yamato 1",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 3252
+    },
+    {
+      "id": "char_70_swm7w8eqr",
+      "name": "Asuma 1",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 3753
+    },
+    {
+      "id": "char_71_zz8c2ui5c",
+      "name": "Kurenai 1",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 8575
+    },
+    {
+      "id": "char_72_7qbhvzpvy",
+      "name": "Might Guy 1",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 2546
+    },
+    {
+      "id": "char_73_7c6swvdhu",
+      "name": "Anko 1",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 1712
+    },
+    {
+      "id": "char_74_ufof2hzv2",
+      "name": "Iruka 1",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 6804
+    },
+    {
+      "id": "char_75_ydobimbwf",
+      "name": "Konohamaru 1",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 9187
+    },
+    {
+      "id": "char_76_r6x8phpkw",
+      "name": "Hanabi 1",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 7742
+    },
+    {
+      "id": "char_77_0pr7df02x",
+      "name": "Karin 1",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 892
+    },
+    {
+      "id": "char_78_yfzofs3dh",
+      "name": "Suigetsu 1",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 3296
+    },
+    {
+      "id": "char_79_yfpeusn9g",
+      "name": "Jugo 1",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 6377
+    },
+    {
+      "id": "char_80_7i1xcoog4",
+      "name": "Naruto 2",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 1699
+    },
+    {
+      "id": "char_81_jg20fikzz",
+      "name": "Sasuke 2",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 1699
+    },
+    {
+      "id": "char_82_sl5kev1ou",
+      "name": "Sakura 2",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 4960
+    },
+    {
+      "id": "char_83_r7w0es295",
+      "name": "Kakashi 2",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 864
+    },
+    {
+      "id": "char_84_awlw0z0m8",
+      "name": "Hinata 2",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 793
+    },
+    {
+      "id": "char_85_vrtveh1w7",
+      "name": "Rock Lee 2",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 9050
+    },
+    {
+      "id": "char_86_eeeftma3u",
+      "name": "Neji 2",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 5024
+    },
+    {
+      "id": "char_87_7p6muypm9",
+      "name": "Tenten 2",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 978
+    },
+    {
+      "id": "char_88_np2xp0x84",
+      "name": "Gaara 2",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 1035
+    },
+    {
+      "id": "char_89_niqfww799",
+      "name": "Temari 2",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 3955
+    },
+    {
+      "id": "char_90_a7o0c9ieb",
+      "name": "Kankuro 2",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 3161
+    },
+    {
+      "id": "char_91_n77rvyseh",
+      "name": "Shikamaru 2",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 3020
+    },
+    {
+      "id": "char_92_l95jgmp2o",
+      "name": "Ino 2",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 9923
+    },
+    {
+      "id": "char_93_fnimxr5ci",
+      "name": "Choji 2",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 6173
+    },
+    {
+      "id": "char_94_stricf19d",
+      "name": "Kiba 2",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 4227
+    },
+    {
+      "id": "char_95_rqkmf53b6",
+      "name": "Shino 2",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 5249
+    },
+    {
+      "id": "char_96_2mgfigk4b",
+      "name": "Zabuza 2",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 9625
+    },
+    {
+      "id": "char_97_rgqavvedc",
+      "name": "Haku 2",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 8741
+    },
+    {
+      "id": "char_98_h660valuj",
+      "name": "Kisame 2",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 1782
+    },
+    {
+      "id": "char_99_15rcaj0ni",
+      "name": "Itachi 2",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 4846
+    },
+    {
+      "id": "char_100_gr8jp1myx",
+      "name": "Deidara 2",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 257
+    },
+    {
+      "id": "char_101_ztc11dtys",
+      "name": "Sasori 2",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 7160
+    },
+    {
+      "id": "char_102_3nfdxj8ld",
+      "name": "Orochimaru 2",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 7678
+    },
+    {
+      "id": "char_103_qrd057xhw",
+      "name": "Jiraiya 2",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 7064
+    },
+    {
+      "id": "char_104_shzj9w701",
+      "name": "Tsunade 2",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 5974
+    },
+    {
+      "id": "char_105_dyvvklyxf",
+      "name": "Minato 2",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 5878
+    },
+    {
+      "id": "char_106_ax1h4u0te",
+      "name": "Kushina 2",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 786
+    },
+    {
+      "id": "char_107_ba2vo3oou",
+      "name": "Obito 2",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 4401
+    },
+    {
+      "id": "char_108_obe0oetqg",
+      "name": "Rin 2",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 4123
+    },
+    {
+      "id": "char_109_su3yq1d1k",
+      "name": "Yamato 2",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 4180
+    },
+    {
+      "id": "char_110_nlse603hh",
+      "name": "Asuma 2",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 4282
+    },
+    {
+      "id": "char_111_iyna5pgrp",
+      "name": "Kurenai 2",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 3898
+    },
+    {
+      "id": "char_112_116h2lwk1",
+      "name": "Might Guy 2",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 3788
+    },
+    {
+      "id": "char_113_fz1ac29qw",
+      "name": "Anko 2",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 867
+    },
+    {
+      "id": "char_114_dnl87dbdc",
+      "name": "Iruka 2",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 7201
+    },
+    {
+      "id": "char_115_lz1vel6eg",
+      "name": "Konohamaru 2",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 3956
+    },
+    {
+      "id": "char_116_7f6p55ys2",
+      "name": "Hanabi 2",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 6906
+    },
+    {
+      "id": "char_117_xcflbpo72",
+      "name": "Karin 2",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 8407
+    },
+    {
+      "id": "char_118_q3gjd6wvq",
+      "name": "Suigetsu 2",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 3190
+    },
+    {
+      "id": "char_119_uqeufzogp",
+      "name": "Jugo 2",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 2762
+    },
+    {
+      "id": "char_120_nkjtoq3uj",
+      "name": "Naruto 3",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 7636
+    },
+    {
+      "id": "char_121_16s84t0k0",
+      "name": "Sasuke 3",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 113
+    },
+    {
+      "id": "char_122_hshlq78gy",
+      "name": "Sakura 3",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 6994
+    },
+    {
+      "id": "char_123_80avefvf7",
+      "name": "Kakashi 3",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 1373
+    },
+    {
+      "id": "char_124_gn8087kh7",
+      "name": "Hinata 3",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 3707
+    },
+    {
+      "id": "char_125_zgrgenr0g",
+      "name": "Rock Lee 3",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 2081
+    },
+    {
+      "id": "char_126_2xu24bvjb",
+      "name": "Neji 3",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 4894
+    },
+    {
+      "id": "char_127_gbv102qdq",
+      "name": "Tenten 3",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 8888
+    },
+    {
+      "id": "char_128_i9tdkem2q",
+      "name": "Gaara 3",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 1581
+    },
+    {
+      "id": "char_129_ipduogqtk",
+      "name": "Temari 3",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 2692
+    },
+    {
+      "id": "char_130_2s1pyhie2",
+      "name": "Kankuro 3",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 8084
+    },
+    {
+      "id": "char_131_9keqr7wpx",
+      "name": "Shikamaru 3",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 1032
+    },
+    {
+      "id": "char_132_ngp1tgip1",
+      "name": "Ino 3",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 468
+    },
+    {
+      "id": "char_133_rsgrqh5lr",
+      "name": "Choji 3",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 4543
+    },
+    {
+      "id": "char_134_yf07ypa5m",
+      "name": "Kiba 3",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 419
+    },
+    {
+      "id": "char_135_v2jn6d3us",
+      "name": "Shino 3",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 4141
+    },
+    {
+      "id": "char_136_m9o2ygjzl",
+      "name": "Zabuza 3",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 3688
+    },
+    {
+      "id": "char_137_lprxvekjy",
+      "name": "Haku 3",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 8480
+    },
+    {
+      "id": "char_138_9y6bbpfdn",
+      "name": "Kisame 3",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 4999
+    },
+    {
+      "id": "char_139_iqhoqktwk",
+      "name": "Itachi 3",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 3641
+    },
+    {
+      "id": "char_140_gamsiqr3g",
+      "name": "Deidara 3",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 9994
+    },
+    {
+      "id": "char_141_k8wnmffg8",
+      "name": "Sasori 3",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 6259
+    },
+    {
+      "id": "char_142_2o8iu6aik",
+      "name": "Orochimaru 3",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 7005
+    },
+    {
+      "id": "char_143_lbjmgn1ci",
+      "name": "Jiraiya 3",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 1458
+    },
+    {
+      "id": "char_144_4odlpffwi",
+      "name": "Tsunade 3",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 7410
+    },
+    {
+      "id": "char_145_6a2r8filt",
+      "name": "Minato 3",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 1974
+    },
+    {
+      "id": "char_146_ehmolhtea",
+      "name": "Kushina 3",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 3997
+    },
+    {
+      "id": "char_147_hzswp1fd4",
+      "name": "Obito 3",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 2273
+    },
+    {
+      "id": "char_148_b968kuy5z",
+      "name": "Rin 3",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 3570
+    },
+    {
+      "id": "char_149_bzr7hlvs8",
+      "name": "Yamato 3",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 2143
+    },
+    {
+      "id": "char_150_8lzak6myp",
+      "name": "Asuma 3",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 751
+    },
+    {
+      "id": "char_151_nbwqgil3m",
+      "name": "Kurenai 3",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 4807
+    },
+    {
+      "id": "char_152_e9frae1dj",
+      "name": "Might Guy 3",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 7438
+    },
+    {
+      "id": "char_153_xa660luwf",
+      "name": "Anko 3",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 529
+    },
+    {
+      "id": "char_154_qloa3d563",
+      "name": "Iruka 3",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 2963
+    },
+    {
+      "id": "char_155_jvgnaxxf5",
+      "name": "Konohamaru 3",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 4620
+    },
+    {
+      "id": "char_156_u0boym70b",
+      "name": "Hanabi 3",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 5717
+    },
+    {
+      "id": "char_157_av5ng43pi",
+      "name": "Karin 3",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 1965
+    },
+    {
+      "id": "char_158_snwnbaumm",
+      "name": "Suigetsu 3",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 9204
+    },
+    {
+      "id": "char_159_gx49z73bz",
+      "name": "Jugo 3",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 1544
+    },
+    {
+      "id": "char_160_a9w1xjdg4",
+      "name": "Naruto 4",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 5605
+    },
+    {
+      "id": "char_161_1m0kd9ymh",
+      "name": "Sasuke 4",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 4828
+    },
+    {
+      "id": "char_162_lraq44btm",
+      "name": "Sakura 4",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 8590
+    },
+    {
+      "id": "char_163_a96uakv0o",
+      "name": "Kakashi 4",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 7060
+    },
+    {
+      "id": "char_164_y80502a1s",
+      "name": "Hinata 4",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 1027
+    },
+    {
+      "id": "char_165_cp1l1nzfy",
+      "name": "Rock Lee 4",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 2524
+    },
+    {
+      "id": "char_166_kpoox1x6u",
+      "name": "Neji 4",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 1305
+    },
+    {
+      "id": "char_167_bsrpf5fz5",
+      "name": "Tenten 4",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 2722
+    },
+    {
+      "id": "char_168_46gtplz2x",
+      "name": "Gaara 4",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 2591
+    },
+    {
+      "id": "char_169_6zi288nfx",
+      "name": "Temari 4",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 3281
+    },
+    {
+      "id": "char_170_dgvmpbrjl",
+      "name": "Kankuro 4",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 5381
+    },
+    {
+      "id": "char_171_it7nlveu3",
+      "name": "Shikamaru 4",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 5876
+    },
+    {
+      "id": "char_172_m0cvfcodi",
+      "name": "Ino 4",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 7671
+    },
+    {
+      "id": "char_173_22a80ouuf",
+      "name": "Choji 4",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 8145
+    },
+    {
+      "id": "char_174_sdir0twxy",
+      "name": "Kiba 4",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 3545
+    },
+    {
+      "id": "char_175_eky9zgx64",
+      "name": "Shino 4",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 2936
+    },
+    {
+      "id": "char_176_haxawk306",
+      "name": "Zabuza 4",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 6856
+    },
+    {
+      "id": "char_177_y9uaz4soe",
+      "name": "Haku 4",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 6045
+    },
+    {
+      "id": "char_178_8f6tp28i9",
+      "name": "Kisame 4",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 7013
+    },
+    {
+      "id": "char_179_wmv4gw2wq",
+      "name": "Itachi 4",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 7149
+    },
+    {
+      "id": "char_180_s6j0qq25t",
+      "name": "Deidara 4",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 7368
+    },
+    {
+      "id": "char_181_avdtcvw5a",
+      "name": "Sasori 4",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 111
+    },
+    {
+      "id": "char_182_bq8laxvts",
+      "name": "Orochimaru 4",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 1163
+    },
+    {
+      "id": "char_183_jt97al90c",
+      "name": "Jiraiya 4",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 3627
+    },
+    {
+      "id": "char_184_h7epnopkq",
+      "name": "Tsunade 4",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 2370
+    },
+    {
+      "id": "char_185_8h43pu53q",
+      "name": "Minato 4",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 805
+    },
+    {
+      "id": "char_186_ive799fgi",
+      "name": "Kushina 4",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 8537
+    },
+    {
+      "id": "char_187_azxopbot8",
+      "name": "Obito 4",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 5689
+    },
+    {
+      "id": "char_188_nb8aodsoh",
+      "name": "Rin 4",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 2545
+    },
+    {
+      "id": "char_189_bdl72bcdj",
+      "name": "Yamato 4",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 2511
+    },
+    {
+      "id": "char_190_72kcpb9hm",
+      "name": "Asuma 4",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 2693
+    },
+    {
+      "id": "char_191_gp7m8vsgd",
+      "name": "Kurenai 4",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 4610
+    },
+    {
+      "id": "char_192_bddo5sx86",
+      "name": "Might Guy 4",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 723
+    },
+    {
+      "id": "char_193_965g1p9im",
+      "name": "Anko 4",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 9380
+    },
+    {
+      "id": "char_194_4jk09nfde",
+      "name": "Iruka 4",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 9144
+    },
+    {
+      "id": "char_195_5kct15es2",
+      "name": "Konohamaru 4",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 9935
+    },
+    {
+      "id": "char_196_oisus3ap9",
+      "name": "Hanabi 4",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 7384
+    },
+    {
+      "id": "char_197_d20i5lst4",
+      "name": "Karin 4",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 2923
+    },
+    {
+      "id": "char_198_ju5pjr2pm",
+      "name": "Suigetsu 4",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 7342
+    },
+    {
+      "id": "char_199_oscfrym1c",
+      "name": "Jugo 4",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 8112
+    },
+    {
+      "id": "char_200_7klsbzwqq",
+      "name": "Naruto 5",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 9075
+    },
+    {
+      "id": "char_201_e2typcush",
+      "name": "Sasuke 5",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 9648
+    },
+    {
+      "id": "char_202_st8xuc1vw",
+      "name": "Sakura 5",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 7168
+    },
+    {
+      "id": "char_203_95pfo8ood",
+      "name": "Kakashi 5",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 4588
+    },
+    {
+      "id": "char_204_2p41izgik",
+      "name": "Hinata 5",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 7002
+    },
+    {
+      "id": "char_205_bwgxv4xrx",
+      "name": "Rock Lee 5",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 507
+    },
+    {
+      "id": "char_206_0tvan7yq0",
+      "name": "Neji 5",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 6358
+    },
+    {
+      "id": "char_207_p35v363vo",
+      "name": "Tenten 5",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 9050
+    },
+    {
+      "id": "char_208_qaflerot7",
+      "name": "Gaara 5",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 2636
+    },
+    {
+      "id": "char_209_la5ft216c",
+      "name": "Temari 5",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 8213
+    },
+    {
+      "id": "char_210_9j495wx5i",
+      "name": "Kankuro 5",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 5962
+    },
+    {
+      "id": "char_211_fkr7rl52f",
+      "name": "Shikamaru 5",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 2505
+    },
+    {
+      "id": "char_212_2smzsga2u",
+      "name": "Ino 5",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 6080
+    },
+    {
+      "id": "char_213_3al77m0z8",
+      "name": "Choji 5",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 9029
+    },
+    {
+      "id": "char_214_lde87obph",
+      "name": "Kiba 5",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 986
+    },
+    {
+      "id": "char_215_1g40rz0cb",
+      "name": "Shino 5",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 3732
+    },
+    {
+      "id": "char_216_tey5ndyfm",
+      "name": "Zabuza 5",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 623
+    },
+    {
+      "id": "char_217_8shmljbzl",
+      "name": "Haku 5",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 1870
+    },
+    {
+      "id": "char_218_qg9wdnnok",
+      "name": "Kisame 5",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 1280
+    },
+    {
+      "id": "char_219_4fryy7nqf",
+      "name": "Itachi 5",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 643
+    },
+    {
+      "id": "char_220_ay68kyp0t",
+      "name": "Deidara 5",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 8707
+    },
+    {
+      "id": "char_221_29zfwmjgq",
+      "name": "Sasori 5",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 7706
+    },
+    {
+      "id": "char_222_plhhrbfa4",
+      "name": "Orochimaru 5",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 2726
+    },
+    {
+      "id": "char_223_j3xx8c00n",
+      "name": "Jiraiya 5",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 7614
+    },
+    {
+      "id": "char_224_pgiw3nk39",
+      "name": "Tsunade 5",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 6931
+    },
+    {
+      "id": "char_225_mxjrlmfov",
+      "name": "Minato 5",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 437
+    },
+    {
+      "id": "char_226_0t24yt6nt",
+      "name": "Kushina 5",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 4140
+    },
+    {
+      "id": "char_227_4168budyn",
+      "name": "Obito 5",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 5657
+    },
+    {
+      "id": "char_228_xdwz1w4m5",
+      "name": "Rin 5",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 2667
+    },
+    {
+      "id": "char_229_75m8wuayj",
+      "name": "Yamato 5",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 9704
+    },
+    {
+      "id": "char_230_9z26ml3s0",
+      "name": "Asuma 5",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 9356
+    },
+    {
+      "id": "char_231_vhr56460x",
+      "name": "Kurenai 5",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 8060
+    },
+    {
+      "id": "char_232_1smzllnbv",
+      "name": "Might Guy 5",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 6941
+    },
+    {
+      "id": "char_233_f0opqn8iv",
+      "name": "Anko 5",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 6183
+    },
+    {
+      "id": "char_234_1hnptqfn1",
+      "name": "Iruka 5",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 1202
+    },
+    {
+      "id": "char_235_8yigpdu32",
+      "name": "Konohamaru 5",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 7673
+    },
+    {
+      "id": "char_236_9oun1d57m",
+      "name": "Hanabi 5",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 338
+    },
+    {
+      "id": "char_237_i2v5orecc",
+      "name": "Karin 5",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 5730
+    },
+    {
+      "id": "char_238_b8nfhofh1",
+      "name": "Suigetsu 5",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 376
+    },
+    {
+      "id": "char_239_tx6sosdyo",
+      "name": "Jugo 5",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 4108
+    },
+    {
+      "id": "char_240_8pwm2lj3g",
+      "name": "Naruto 6",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 1285
+    },
+    {
+      "id": "char_241_5a0yhpck3",
+      "name": "Sasuke 6",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 8328
+    },
+    {
+      "id": "char_242_0msgehgdd",
+      "name": "Sakura 6",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 6821
+    },
+    {
+      "id": "char_243_3t9mf4nau",
+      "name": "Kakashi 6",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 1414
+    },
+    {
+      "id": "char_244_wiy3xzuzp",
+      "name": "Hinata 6",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 5253
+    },
+    {
+      "id": "char_245_dtiwa8jkq",
+      "name": "Rock Lee 6",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 858
+    },
+    {
+      "id": "char_246_9q4heok4a",
+      "name": "Neji 6",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 6937
+    },
+    {
+      "id": "char_247_ok2h0gdaj",
+      "name": "Tenten 6",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 2656
+    },
+    {
+      "id": "char_248_l8g4fi1uq",
+      "name": "Gaara 6",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 8780
+    },
+    {
+      "id": "char_249_yq2dmmdk4",
+      "name": "Temari 6",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 9881
+    },
+    {
+      "id": "char_250_g1o2c50j3",
+      "name": "Kankuro 6",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 6454
+    },
+    {
+      "id": "char_251_bubh9qo45",
+      "name": "Shikamaru 6",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 9883
+    },
+    {
+      "id": "char_252_xnvdu1d07",
+      "name": "Ino 6",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 7456
+    },
+    {
+      "id": "char_253_0ahlq2cje",
+      "name": "Choji 6",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 1751
+    },
+    {
+      "id": "char_254_landmlstt",
+      "name": "Kiba 6",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 3067
+    },
+    {
+      "id": "char_255_kxjx9c0ws",
+      "name": "Shino 6",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 6774
+    },
+    {
+      "id": "char_256_kn2wk9amb",
+      "name": "Zabuza 6",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 4887
+    },
+    {
+      "id": "char_257_n51su4r3y",
+      "name": "Haku 6",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 4083
+    },
+    {
+      "id": "char_258_nz26rzuqa",
+      "name": "Kisame 6",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 7977
+    },
+    {
+      "id": "char_259_ptmphfohh",
+      "name": "Itachi 6",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 2878
+    },
+    {
+      "id": "char_260_nnkzpwdvh",
+      "name": "Deidara 6",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 3556
+    },
+    {
+      "id": "char_261_pa7nzd5tn",
+      "name": "Sasori 6",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 4929
+    },
+    {
+      "id": "char_262_0omnzpule",
+      "name": "Orochimaru 6",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 8642
+    },
+    {
+      "id": "char_263_r2y81rdh0",
+      "name": "Jiraiya 6",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 1049
+    },
+    {
+      "id": "char_264_dbg71nxy2",
+      "name": "Tsunade 6",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 7406
+    },
+    {
+      "id": "char_265_l9o0jcv7b",
+      "name": "Minato 6",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 3049
+    },
+    {
+      "id": "char_266_kkpjwklvx",
+      "name": "Kushina 6",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 1486
+    },
+    {
+      "id": "char_267_p0xo73ajl",
+      "name": "Obito 6",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 8875
+    },
+    {
+      "id": "char_268_ubexaiivp",
+      "name": "Rin 6",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 4005
+    },
+    {
+      "id": "char_269_j67vqp7c1",
+      "name": "Yamato 6",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 6973
+    },
+    {
+      "id": "char_270_ipsmptdt5",
+      "name": "Asuma 6",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 7614
+    },
+    {
+      "id": "char_271_1j7fk87sl",
+      "name": "Kurenai 6",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 2521
+    },
+    {
+      "id": "char_272_0kwz3qgog",
+      "name": "Might Guy 6",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 9204
+    },
+    {
+      "id": "char_273_c9jlfcvmt",
+      "name": "Anko 6",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 3329
+    },
+    {
+      "id": "char_274_izg7cz9rd",
+      "name": "Iruka 6",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 4315
+    },
+    {
+      "id": "char_275_x4xstc2mh",
+      "name": "Konohamaru 6",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 1358
+    },
+    {
+      "id": "char_276_z7fwvht94",
+      "name": "Hanabi 6",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 8823
+    },
+    {
+      "id": "char_277_0bpjcct1d",
+      "name": "Karin 6",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 1773
+    },
+    {
+      "id": "char_278_9k7l73cs9",
+      "name": "Suigetsu 6",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 975
+    },
+    {
+      "id": "char_279_st25vwin2",
+      "name": "Jugo 6",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 7188
+    },
+    {
+      "id": "char_280_it4go7ylq",
+      "name": "Naruto 7",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 1947
+    },
+    {
+      "id": "char_281_u80m14la4",
+      "name": "Sasuke 7",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 4891
+    },
+    {
+      "id": "char_282_4ztlffgyp",
+      "name": "Sakura 7",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 683
+    },
+    {
+      "id": "char_283_y7gnigm15",
+      "name": "Kakashi 7",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 1486
+    },
+    {
+      "id": "char_284_mshhzwra6",
+      "name": "Hinata 7",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 1163
+    },
+    {
+      "id": "char_285_0svv71uhf",
+      "name": "Rock Lee 7",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 1117
+    },
+    {
+      "id": "char_286_we48uyn5h",
+      "name": "Neji 7",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 565
+    },
+    {
+      "id": "char_287_i5gjurg5q",
+      "name": "Tenten 7",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 1524
+    },
+    {
+      "id": "char_288_dk14ocwz5",
+      "name": "Gaara 7",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 8622
+    },
+    {
+      "id": "char_289_6pmj3b0xn",
+      "name": "Temari 7",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 2749
+    },
+    {
+      "id": "char_290_ptryi1b3l",
+      "name": "Kankuro 7",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 5066
+    },
+    {
+      "id": "char_291_cco51knx5",
+      "name": "Shikamaru 7",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 1046
+    },
+    {
+      "id": "char_292_o1o5eewxp",
+      "name": "Ino 7",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 6870
+    },
+    {
+      "id": "char_293_k1fh9a1r6",
+      "name": "Choji 7",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 7197
+    },
+    {
+      "id": "char_294_41aogmmp8",
+      "name": "Kiba 7",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 9846
+    },
+    {
+      "id": "char_295_vdp2i97ov",
+      "name": "Shino 7",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 8719
+    },
+    {
+      "id": "char_296_qmr5ar2m1",
+      "name": "Zabuza 7",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 4918
+    },
+    {
+      "id": "char_297_4wecdwmwr",
+      "name": "Haku 7",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 7507
+    },
+    {
+      "id": "char_298_c1wpr7l8t",
+      "name": "Kisame 7",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 6387
+    },
+    {
+      "id": "char_299_5kiubiu0e",
+      "name": "Itachi 7",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 654
+    },
+    {
+      "id": "char_300_xz3x6uknl",
+      "name": "Deidara 7",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 1326
+    },
+    {
+      "id": "char_301_l6p3ukg2c",
+      "name": "Sasori 7",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 5785
+    },
+    {
+      "id": "char_302_vgaxk067a",
+      "name": "Orochimaru 7",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 7225
+    },
+    {
+      "id": "char_303_grq8rohvu",
+      "name": "Jiraiya 7",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 7251
+    },
+    {
+      "id": "char_304_0gdn4c71a",
+      "name": "Tsunade 7",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 4319
+    },
+    {
+      "id": "char_305_svv9i5a96",
+      "name": "Minato 7",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 490
+    },
+    {
+      "id": "char_306_ag1y6y4zh",
+      "name": "Kushina 7",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 5558
+    },
+    {
+      "id": "char_307_bpiby5fsb",
+      "name": "Obito 7",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 3711
+    },
+    {
+      "id": "char_308_37uq1q44n",
+      "name": "Rin 7",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 9160
+    },
+    {
+      "id": "char_309_1ky2ojp8s",
+      "name": "Yamato 7",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 7007
+    },
+    {
+      "id": "char_310_tc5dbeq8s",
+      "name": "Asuma 7",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 7854
+    },
+    {
+      "id": "char_311_1wzcnwi8a",
+      "name": "Kurenai 7",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 8784
+    },
+    {
+      "id": "char_312_kz6j7cgy3",
+      "name": "Might Guy 7",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 2033
+    },
+    {
+      "id": "char_313_brunddd8n",
+      "name": "Anko 7",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 6315
+    },
+    {
+      "id": "char_314_ekf57xy7k",
+      "name": "Iruka 7",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 9285
+    },
+    {
+      "id": "char_315_ro1dmdlxm",
+      "name": "Konohamaru 7",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 5031
+    },
+    {
+      "id": "char_316_ygjlwhald",
+      "name": "Hanabi 7",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 5177
+    },
+    {
+      "id": "char_317_o63nk426g",
+      "name": "Karin 7",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 8498
+    },
+    {
+      "id": "char_318_2l8fm6b2h",
+      "name": "Suigetsu 7",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 3800
+    },
+    {
+      "id": "char_319_8o1j9vpht",
+      "name": "Jugo 7",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 8075
+    },
+    {
+      "id": "char_320_x6j268zck",
+      "name": "Naruto 8",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 3278
+    },
+    {
+      "id": "char_321_ovyzpi6kg",
+      "name": "Sasuke 8",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 2321
+    },
+    {
+      "id": "char_322_n5k13qxrq",
+      "name": "Sakura 8",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 2692
+    },
+    {
+      "id": "char_323_3i0emwwl1",
+      "name": "Kakashi 8",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 3337
+    },
+    {
+      "id": "char_324_bptvosr0x",
+      "name": "Hinata 8",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 6497
+    },
+    {
+      "id": "char_325_iooyv9wm4",
+      "name": "Rock Lee 8",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 352
+    },
+    {
+      "id": "char_326_gifk4msk7",
+      "name": "Neji 8",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 3178
+    },
+    {
+      "id": "char_327_7wk4b8fjk",
+      "name": "Tenten 8",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 7135
+    },
+    {
+      "id": "char_328_hz1rmisir",
+      "name": "Gaara 8",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 3392
+    },
+    {
+      "id": "char_329_fsu1k2pb8",
+      "name": "Temari 8",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 2944
+    },
+    {
+      "id": "char_330_vkgjj4cxc",
+      "name": "Kankuro 8",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 8209
+    },
+    {
+      "id": "char_331_j1ffmcn2c",
+      "name": "Shikamaru 8",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 6853
+    },
+    {
+      "id": "char_332_mhnhdllya",
+      "name": "Ino 8",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 5985
+    },
+    {
+      "id": "char_333_fp9m3z0rn",
+      "name": "Choji 8",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 583
+    },
+    {
+      "id": "char_334_xueimjlr0",
+      "name": "Kiba 8",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 4701
+    },
+    {
+      "id": "char_335_gdkxj1db8",
+      "name": "Shino 8",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 6002
+    },
+    {
+      "id": "char_336_ul7hxuja1",
+      "name": "Zabuza 8",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 6638
+    },
+    {
+      "id": "char_337_b1ih9jch8",
+      "name": "Haku 8",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 9912
+    },
+    {
+      "id": "char_338_l1kk5s6qh",
+      "name": "Kisame 8",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 1395
+    },
+    {
+      "id": "char_339_85sjanceu",
+      "name": "Itachi 8",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 443
+    },
+    {
+      "id": "char_340_m6kmgfe3s",
+      "name": "Deidara 8",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 7642
+    },
+    {
+      "id": "char_341_u0xe724d0",
+      "name": "Sasori 8",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 8838
+    },
+    {
+      "id": "char_342_jekdprsm8",
+      "name": "Orochimaru 8",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 5603
+    },
+    {
+      "id": "char_343_isbl4hiy0",
+      "name": "Jiraiya 8",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 6303
+    },
+    {
+      "id": "char_344_j72djdj73",
+      "name": "Tsunade 8",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 1604
+    },
+    {
+      "id": "char_345_tfnnn4kj3",
+      "name": "Minato 8",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 5518
+    },
+    {
+      "id": "char_346_jkwzyp9je",
+      "name": "Kushina 8",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 3543
+    },
+    {
+      "id": "char_347_7ozsspyd5",
+      "name": "Obito 8",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 8720
+    },
+    {
+      "id": "char_348_skldnawrl",
+      "name": "Rin 8",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 6388
+    },
+    {
+      "id": "char_349_b6roeyao1",
+      "name": "Yamato 8",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 9321
+    },
+    {
+      "id": "char_350_9tjzo4wtw",
+      "name": "Asuma 8",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 3949
+    },
+    {
+      "id": "char_351_lnicaah9p",
+      "name": "Kurenai 8",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 9768
+    },
+    {
+      "id": "char_352_b6duvqwu2",
+      "name": "Might Guy 8",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 2497
+    },
+    {
+      "id": "char_353_qp4hjqf4x",
+      "name": "Anko 8",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 1534
+    },
+    {
+      "id": "char_354_6q1wgl3u8",
+      "name": "Iruka 8",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 1258
+    },
+    {
+      "id": "char_355_kfvp0r2mz",
+      "name": "Konohamaru 8",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 5810
+    },
+    {
+      "id": "char_356_a0qlu5grl",
+      "name": "Hanabi 8",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 938
+    },
+    {
+      "id": "char_357_v52od1tdn",
+      "name": "Karin 8",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 9322
+    },
+    {
+      "id": "char_358_aw92q1lgv",
+      "name": "Suigetsu 8",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 2050
+    },
+    {
+      "id": "char_359_jjue002sb",
+      "name": "Jugo 8",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 4742
+    },
+    {
+      "id": "char_360_9kznvankv",
+      "name": "Naruto 9",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 8284
+    },
+    {
+      "id": "char_361_4ldnf1648",
+      "name": "Sasuke 9",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 5617
+    },
+    {
+      "id": "char_362_651z64gha",
+      "name": "Sakura 9",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 6973
+    },
+    {
+      "id": "char_363_311n0op09",
+      "name": "Kakashi 9",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 1644
+    },
+    {
+      "id": "char_364_hqimsjlvq",
+      "name": "Hinata 9",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 1325
+    },
+    {
+      "id": "char_365_va4pe8tau",
+      "name": "Rock Lee 9",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 7489
+    },
+    {
+      "id": "char_366_ybjqfhs7z",
+      "name": "Neji 9",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 3208
+    },
+    {
+      "id": "char_367_cqukgerbc",
+      "name": "Tenten 9",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 6049
+    },
+    {
+      "id": "char_368_hfhzrd77e",
+      "name": "Gaara 9",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 4500
+    },
+    {
+      "id": "char_369_imetdcmcz",
+      "name": "Temari 9",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 6845
+    },
+    {
+      "id": "char_370_jvr0e0dg8",
+      "name": "Kankuro 9",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 3715
+    },
+    {
+      "id": "char_371_09fg10rmb",
+      "name": "Shikamaru 9",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 3606
+    },
+    {
+      "id": "char_372_zwv2378gf",
+      "name": "Ino 9",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 2071
+    },
+    {
+      "id": "char_373_ds04r8qy8",
+      "name": "Choji 9",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 3668
+    },
+    {
+      "id": "char_374_iveh140cr",
+      "name": "Kiba 9",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 3900
+    },
+    {
+      "id": "char_375_iv9nvt7dm",
+      "name": "Shino 9",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 5732
+    },
+    {
+      "id": "char_376_ildr2tbnr",
+      "name": "Zabuza 9",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 2102
+    },
+    {
+      "id": "char_377_b7a8aunls",
+      "name": "Haku 9",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 4969
+    },
+    {
+      "id": "char_378_2uw17m5bw",
+      "name": "Kisame 9",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 4405
+    },
+    {
+      "id": "char_379_y5e2pgr2b",
+      "name": "Itachi 9",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 487
+    },
+    {
+      "id": "char_380_4h70kcgpu",
+      "name": "Deidara 9",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 1842
+    },
+    {
+      "id": "char_381_voydcr0jm",
+      "name": "Sasori 9",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 3414
+    },
+    {
+      "id": "char_382_pnud572g8",
+      "name": "Orochimaru 9",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 8112
+    },
+    {
+      "id": "char_383_cqwj125gk",
+      "name": "Jiraiya 9",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 9674
+    },
+    {
+      "id": "char_384_k34bderrg",
+      "name": "Tsunade 9",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 2797
+    },
+    {
+      "id": "char_385_dylmw6igp",
+      "name": "Minato 9",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 6904
+    },
+    {
+      "id": "char_386_x79dkoxy7",
+      "name": "Kushina 9",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 1746
+    },
+    {
+      "id": "char_387_9afo2akvb",
+      "name": "Obito 9",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 7298
+    },
+    {
+      "id": "char_388_sbr7jon4v",
+      "name": "Rin 9",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 5150
+    },
+    {
+      "id": "char_389_d28kv2hq4",
+      "name": "Yamato 9",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 9882
+    },
+    {
+      "id": "char_390_e99lz6o80",
+      "name": "Asuma 9",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 3999
+    },
+    {
+      "id": "char_391_48vft8biq",
+      "name": "Kurenai 9",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 7517
+    },
+    {
+      "id": "char_392_5w7e8hmsm",
+      "name": "Might Guy 9",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 8869
+    },
+    {
+      "id": "char_393_mxsw0z0hr",
+      "name": "Anko 9",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 4815
+    },
+    {
+      "id": "char_394_pee6cy9yj",
+      "name": "Iruka 9",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 912
+    },
+    {
+      "id": "char_395_hr6k0owwc",
+      "name": "Konohamaru 9",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 8516
+    },
+    {
+      "id": "char_396_q5e4cgc15",
+      "name": "Hanabi 9",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 2681
+    },
+    {
+      "id": "char_397_qdtoaxcls",
+      "name": "Karin 9",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 9880
+    },
+    {
+      "id": "char_398_ekc07enk7",
+      "name": "Suigetsu 9",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 5873
+    },
+    {
+      "id": "char_399_teg534tq2",
+      "name": "Jugo 9",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 6326
+    },
+    {
+      "id": "char_400_ewza0mv7b",
+      "name": "Naruto 10",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 5686
+    },
+    {
+      "id": "char_401_g658l4r0o",
+      "name": "Sasuke 10",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 1670
+    },
+    {
+      "id": "char_402_01s1thwx2",
+      "name": "Sakura 10",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 4208
+    },
+    {
+      "id": "char_403_j88llpuvd",
+      "name": "Kakashi 10",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 6937
+    },
+    {
+      "id": "char_404_logkxq1g4",
+      "name": "Hinata 10",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 6841
+    },
+    {
+      "id": "char_405_kj9dn9cpz",
+      "name": "Rock Lee 10",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 2873
+    },
+    {
+      "id": "char_406_fdgp86yb3",
+      "name": "Neji 10",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 3955
+    },
+    {
+      "id": "char_407_idd7plr0x",
+      "name": "Tenten 10",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 1997
+    },
+    {
+      "id": "char_408_g877oa9t3",
+      "name": "Gaara 10",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 325
+    },
+    {
+      "id": "char_409_p8lx8ya8x",
+      "name": "Temari 10",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 7581
+    },
+    {
+      "id": "char_410_dv01st45f",
+      "name": "Kankuro 10",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 4456
+    },
+    {
+      "id": "char_411_kuu1xfa41",
+      "name": "Shikamaru 10",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 523
+    },
+    {
+      "id": "char_412_25sx0noar",
+      "name": "Ino 10",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 5564
+    },
+    {
+      "id": "char_413_rg3893f8w",
+      "name": "Choji 10",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 6285
+    },
+    {
+      "id": "char_414_rlopmvcqv",
+      "name": "Kiba 10",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 9880
+    },
+    {
+      "id": "char_415_ej9b4sqvg",
+      "name": "Shino 10",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 6417
+    },
+    {
+      "id": "char_416_1lj0u8093",
+      "name": "Zabuza 10",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 3938
+    },
+    {
+      "id": "char_417_jvbjscs84",
+      "name": "Haku 10",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 648
+    },
+    {
+      "id": "char_418_vf4ug5ia7",
+      "name": "Kisame 10",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 4494
+    },
+    {
+      "id": "char_419_botmz22fp",
+      "name": "Itachi 10",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 4742
+    },
+    {
+      "id": "char_420_hmxfjgcno",
+      "name": "Deidara 10",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 9573
+    },
+    {
+      "id": "char_421_dqi8swvn0",
+      "name": "Sasori 10",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 7966
+    },
+    {
+      "id": "char_422_5sbff4k86",
+      "name": "Orochimaru 10",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 104
+    },
+    {
+      "id": "char_423_qx91jwe7l",
+      "name": "Jiraiya 10",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 4998
+    },
+    {
+      "id": "char_424_4qrqy8twv",
+      "name": "Tsunade 10",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 3412
+    },
+    {
+      "id": "char_425_c4vm4ze3m",
+      "name": "Minato 10",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 4502
+    },
+    {
+      "id": "char_426_2wgwyobwr",
+      "name": "Kushina 10",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 2578
+    },
+    {
+      "id": "char_427_v9w1tx44y",
+      "name": "Obito 10",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 8656
+    },
+    {
+      "id": "char_428_3s09ptprh",
+      "name": "Rin 10",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 6930
+    },
+    {
+      "id": "char_429_h6xfyxysb",
+      "name": "Yamato 10",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 6461
+    },
+    {
+      "id": "char_430_g3knk9jjv",
+      "name": "Asuma 10",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 678
+    },
+    {
+      "id": "char_431_ybtrb8e5x",
+      "name": "Kurenai 10",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 7490
+    },
+    {
+      "id": "char_432_0l0o784o5",
+      "name": "Might Guy 10",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 1605
+    },
+    {
+      "id": "char_433_gn7oxu48m",
+      "name": "Anko 10",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 5826
+    },
+    {
+      "id": "char_434_hvjeckv3u",
+      "name": "Iruka 10",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 7043
+    },
+    {
+      "id": "char_435_xibdukfbe",
+      "name": "Konohamaru 10",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 5600
+    },
+    {
+      "id": "char_436_tzxlbu5xz",
+      "name": "Hanabi 10",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 8289
+    },
+    {
+      "id": "char_437_5wznsgnje",
+      "name": "Karin 10",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 6385
+    },
+    {
+      "id": "char_438_bc0nzxlbk",
+      "name": "Suigetsu 10",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 5327
+    },
+    {
+      "id": "char_439_98p5ibu3s",
+      "name": "Jugo 10",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 8131
+    },
+    {
+      "id": "char_440_m1xja8tjm",
+      "name": "Naruto 11",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 8546
+    },
+    {
+      "id": "char_441_gjczb863e",
+      "name": "Sasuke 11",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 6226
+    },
+    {
+      "id": "char_442_ok7cnvo3o",
+      "name": "Sakura 11",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 7368
+    },
+    {
+      "id": "char_443_a5hzucwvr",
+      "name": "Kakashi 11",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 6325
+    },
+    {
+      "id": "char_444_b84ve0z0s",
+      "name": "Hinata 11",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 5894
+    },
+    {
+      "id": "char_445_tcbe6z2up",
+      "name": "Rock Lee 11",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 2287
+    },
+    {
+      "id": "char_446_swe0lu6oi",
+      "name": "Neji 11",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 5885
+    },
+    {
+      "id": "char_447_blo0evl82",
+      "name": "Tenten 11",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 1387
+    },
+    {
+      "id": "char_448_dv6suatj1",
+      "name": "Gaara 11",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 9212
+    },
+    {
+      "id": "char_449_arf4vvaln",
+      "name": "Temari 11",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 4141
+    },
+    {
+      "id": "char_450_d8wnimzid",
+      "name": "Kankuro 11",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 476
+    },
+    {
+      "id": "char_451_1l4zvjlon",
+      "name": "Shikamaru 11",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 5857
+    },
+    {
+      "id": "char_452_90f832wlk",
+      "name": "Ino 11",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 9326
+    },
+    {
+      "id": "char_453_nn2uwckxm",
+      "name": "Choji 11",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 5778
+    },
+    {
+      "id": "char_454_dvlp6bn76",
+      "name": "Kiba 11",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 5723
+    },
+    {
+      "id": "char_455_p3o0fdwcp",
+      "name": "Shino 11",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 9357
+    },
+    {
+      "id": "char_456_ntm8yegxt",
+      "name": "Zabuza 11",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 1429
+    },
+    {
+      "id": "char_457_2v3nmkjow",
+      "name": "Haku 11",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 4505
+    },
+    {
+      "id": "char_458_kxu5ncpq2",
+      "name": "Kisame 11",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 9361
+    },
+    {
+      "id": "char_459_fdn94s9mg",
+      "name": "Itachi 11",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 8141
+    },
+    {
+      "id": "char_460_j8985jrbc",
+      "name": "Deidara 11",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 9991
+    },
+    {
+      "id": "char_461_fbel4u440",
+      "name": "Sasori 11",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 275
+    },
+    {
+      "id": "char_462_3nwvzgl7k",
+      "name": "Orochimaru 11",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 6637
+    },
+    {
+      "id": "char_463_yba8i5d5f",
+      "name": "Jiraiya 11",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 4781
+    },
+    {
+      "id": "char_464_g89x59lqd",
+      "name": "Tsunade 11",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 7157
+    },
+    {
+      "id": "char_465_6bn628hnr",
+      "name": "Minato 11",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 4151
+    },
+    {
+      "id": "char_466_be1y67j9y",
+      "name": "Kushina 11",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 9356
+    },
+    {
+      "id": "char_467_eg8deuvxs",
+      "name": "Obito 11",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 5391
+    },
+    {
+      "id": "char_468_rpmhjjtzq",
+      "name": "Rin 11",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 6967
+    },
+    {
+      "id": "char_469_ojbnohty7",
+      "name": "Yamato 11",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 1138
+    },
+    {
+      "id": "char_470_ajssf1009",
+      "name": "Asuma 11",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 2996
+    },
+    {
+      "id": "char_471_brmfi8698",
+      "name": "Kurenai 11",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 9764
+    },
+    {
+      "id": "char_472_ifz0qoabw",
+      "name": "Might Guy 11",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 5349
+    },
+    {
+      "id": "char_473_ztzxxxmii",
+      "name": "Anko 11",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 7723
+    },
+    {
+      "id": "char_474_9eevnzznp",
+      "name": "Iruka 11",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 1381
+    },
+    {
+      "id": "char_475_gsk6ehkuq",
+      "name": "Konohamaru 11",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 2543
+    },
+    {
+      "id": "char_476_6mufx7dha",
+      "name": "Hanabi 11",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 8467
+    },
+    {
+      "id": "char_477_r5fti60u7",
+      "name": "Karin 11",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 3157
+    },
+    {
+      "id": "char_478_jc7tpu25f",
+      "name": "Suigetsu 11",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 2895
+    },
+    {
+      "id": "char_479_1w3f877u8",
+      "name": "Jugo 11",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 4209
+    },
+    {
+      "id": "char_480_xmegurwuk",
+      "name": "Naruto 12",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 3286
+    },
+    {
+      "id": "char_481_yqavzrubz",
+      "name": "Sasuke 12",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 2723
+    },
+    {
+      "id": "char_482_xukcagro2",
+      "name": "Sakura 12",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 3735
+    },
+    {
+      "id": "char_483_k0nxnio9b",
+      "name": "Kakashi 12",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 1531
+    },
+    {
+      "id": "char_484_ly5oav58t",
+      "name": "Hinata 12",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 5585
+    },
+    {
+      "id": "char_485_5bfid36ld",
+      "name": "Rock Lee 12",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 659
+    },
+    {
+      "id": "char_486_tm6a9gah9",
+      "name": "Neji 12",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 3848
+    },
+    {
+      "id": "char_487_fpzwmshn5",
+      "name": "Tenten 12",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 1268
+    },
+    {
+      "id": "char_488_szd3v769c",
+      "name": "Gaara 12",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 8378
+    },
+    {
+      "id": "char_489_bfkbmlrhg",
+      "name": "Temari 12",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 203
+    },
+    {
+      "id": "char_490_6my8twnjn",
+      "name": "Kankuro 12",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 121
+    },
+    {
+      "id": "char_491_woykncsi9",
+      "name": "Shikamaru 12",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 3749
+    },
+    {
+      "id": "char_492_brhltd6tc",
+      "name": "Ino 12",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 3836
+    },
+    {
+      "id": "char_493_a9xlyp0d5",
+      "name": "Choji 12",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 8779
+    },
+    {
+      "id": "char_494_u6ebfslts",
+      "name": "Kiba 12",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 5625
+    },
+    {
+      "id": "char_495_oxaymr3hb",
+      "name": "Shino 12",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 3214
+    },
+    {
+      "id": "char_496_akamlytd6",
+      "name": "Zabuza 12",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 3442
+    },
+    {
+      "id": "char_497_e2xlbl25t",
+      "name": "Haku 12",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 5219
+    },
+    {
+      "id": "char_498_k42lbf26p",
+      "name": "Kisame 12",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 3225
+    },
+    {
+      "id": "char_499_7v3or37rc",
+      "name": "Itachi 12",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 728
+    },
+    {
+      "id": "char_500_oixdd8v6k",
+      "name": "Deidara 12",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 8208
+    },
+    {
+      "id": "char_501_f1ejeaswq",
+      "name": "Sasori 12",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 4391
+    },
+    {
+      "id": "char_502_fq9x4vmtj",
+      "name": "Orochimaru 12",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 2049
+    },
+    {
+      "id": "char_503_cncwwtt29",
+      "name": "Jiraiya 12",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 1573
+    },
+    {
+      "id": "char_504_gibbi6mxg",
+      "name": "Tsunade 12",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 9354
+    },
+    {
+      "id": "char_505_f760igcki",
+      "name": "Minato 12",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 9420
+    },
+    {
+      "id": "char_506_12pggdf46",
+      "name": "Kushina 12",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 4572
+    },
+    {
+      "id": "char_507_w2lio8i85",
+      "name": "Obito 12",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 893
+    },
+    {
+      "id": "char_508_thuzzxduv",
+      "name": "Rin 12",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 5017
+    },
+    {
+      "id": "char_509_z9qmstw3p",
+      "name": "Yamato 12",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 9065
+    },
+    {
+      "id": "char_510_cizpgq7h6",
+      "name": "Asuma 12",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 7076
+    },
+    {
+      "id": "char_511_9b84iouvk",
+      "name": "Kurenai 12",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 9117
+    },
+    {
+      "id": "char_512_uisldvawp",
+      "name": "Might Guy 12",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 1416
+    },
+    {
+      "id": "char_513_qog21gumm",
+      "name": "Anko 12",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 6695
+    },
+    {
+      "id": "char_514_vxpux2p65",
+      "name": "Iruka 12",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 6660
+    },
+    {
+      "id": "char_515_l3679zjky",
+      "name": "Konohamaru 12",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 1522
+    },
+    {
+      "id": "char_516_9o9j5j7ur",
+      "name": "Hanabi 12",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 4293
+    },
+    {
+      "id": "char_517_v8n8dblp5",
+      "name": "Karin 12",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 3750
+    },
+    {
+      "id": "char_518_1iffscd4b",
+      "name": "Suigetsu 12",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 9526
+    },
+    {
+      "id": "char_519_sflplgt3j",
+      "name": "Jugo 12",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 2846
+    },
+    {
+      "id": "char_520_4w286mfel",
+      "name": "Naruto 13",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 5498
+    },
+    {
+      "id": "char_521_ww7xjxtjc",
+      "name": "Sasuke 13",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 3030
+    },
+    {
+      "id": "char_522_9erv7dmw6",
+      "name": "Sakura 13",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 6754
+    },
+    {
+      "id": "char_523_q9x369l5c",
+      "name": "Kakashi 13",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 9811
+    },
+    {
+      "id": "char_524_mt2auos3b",
+      "name": "Hinata 13",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 501
+    },
+    {
+      "id": "char_525_gwy7zk1n4",
+      "name": "Rock Lee 13",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 8751
+    },
+    {
+      "id": "char_526_df83fxzdj",
+      "name": "Neji 13",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 777
+    },
+    {
+      "id": "char_527_ztvbcsis4",
+      "name": "Tenten 13",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 6498
+    },
+    {
+      "id": "char_528_y6okipgyu",
+      "name": "Gaara 13",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 395
+    },
+    {
+      "id": "char_529_nv93pbdms",
+      "name": "Temari 13",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 7430
+    },
+    {
+      "id": "char_530_tw506wbwi",
+      "name": "Kankuro 13",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 6915
+    },
+    {
+      "id": "char_531_hl1ise9fh",
+      "name": "Shikamaru 13",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 6687
+    },
+    {
+      "id": "char_532_je2ob1q48",
+      "name": "Ino 13",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 8925
+    },
+    {
+      "id": "char_533_knv2xrqjh",
+      "name": "Choji 13",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 7806
+    },
+    {
+      "id": "char_534_ogqgj6172",
+      "name": "Kiba 13",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 6043
+    },
+    {
+      "id": "char_535_j1kucpq9d",
+      "name": "Shino 13",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 3623
+    },
+    {
+      "id": "char_536_8m3h1mjk8",
+      "name": "Zabuza 13",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 905
+    },
+    {
+      "id": "char_537_mbcwdgvn8",
+      "name": "Haku 13",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 9341
+    },
+    {
+      "id": "char_538_g390qpba8",
+      "name": "Kisame 13",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 1243
+    },
+    {
+      "id": "char_539_repdu3f5q",
+      "name": "Itachi 13",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 3972
+    },
+    {
+      "id": "char_540_fd1xwn3ck",
+      "name": "Deidara 13",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 6165
+    },
+    {
+      "id": "char_541_e1r5drakb",
+      "name": "Sasori 13",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 8765
+    },
+    {
+      "id": "char_542_fb6vu51ev",
+      "name": "Orochimaru 13",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 3754
+    },
+    {
+      "id": "char_543_8ofgi0eqj",
+      "name": "Jiraiya 13",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 7190
+    },
+    {
+      "id": "char_544_38dzxsqty",
+      "name": "Tsunade 13",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 6654
+    },
+    {
+      "id": "char_545_xslyqxl26",
+      "name": "Minato 13",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 2945
+    },
+    {
+      "id": "char_546_735uyl256",
+      "name": "Kushina 13",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 6580
+    },
+    {
+      "id": "char_547_lti2jcsjl",
+      "name": "Obito 13",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 3917
+    },
+    {
+      "id": "char_548_d4vy2ju9z",
+      "name": "Rin 13",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 2500
+    },
+    {
+      "id": "char_549_f8h447igw",
+      "name": "Yamato 13",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 1785
+    },
+    {
+      "id": "char_550_nbeqbp1cy",
+      "name": "Asuma 13",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 642
+    },
+    {
+      "id": "char_551_jh6qqy1li",
+      "name": "Kurenai 13",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 6205
+    },
+    {
+      "id": "char_552_xnf1qjux1",
+      "name": "Might Guy 13",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 9078
+    },
+    {
+      "id": "char_553_ks4kdg5ye",
+      "name": "Anko 13",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 6875
+    },
+    {
+      "id": "char_554_y93h8vjt6",
+      "name": "Iruka 13",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 2577
+    },
+    {
+      "id": "char_555_iv5x4228s",
+      "name": "Konohamaru 13",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 496
+    },
+    {
+      "id": "char_556_i23l4ve7o",
+      "name": "Hanabi 13",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 6758
+    },
+    {
+      "id": "char_557_yyxh0x0ds",
+      "name": "Karin 13",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 854
+    },
+    {
+      "id": "char_558_6hoih6773",
+      "name": "Suigetsu 13",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 2123
+    },
+    {
+      "id": "char_559_k7tvb6wdp",
+      "name": "Jugo 13",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 2044
+    },
+    {
+      "id": "char_560_t24sqr6zt",
+      "name": "Naruto 14",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 4613
+    },
+    {
+      "id": "char_561_7oni2nrfw",
+      "name": "Sasuke 14",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 4928
+    },
+    {
+      "id": "char_562_4jkxy94w1",
+      "name": "Sakura 14",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 9098
+    },
+    {
+      "id": "char_563_4wa96qgc0",
+      "name": "Kakashi 14",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 2098
+    },
+    {
+      "id": "char_564_8nbwff6zf",
+      "name": "Hinata 14",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 9876
+    },
+    {
+      "id": "char_565_0ikv4b2te",
+      "name": "Rock Lee 14",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 8317
+    },
+    {
+      "id": "char_566_z9fhi1r5o",
+      "name": "Neji 14",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 791
+    },
+    {
+      "id": "char_567_g7cprxrrl",
+      "name": "Tenten 14",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 2856
+    },
+    {
+      "id": "char_568_mhj5bhejv",
+      "name": "Gaara 14",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 7125
+    },
+    {
+      "id": "char_569_x5qvrjyya",
+      "name": "Temari 14",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 865
+    },
+    {
+      "id": "char_570_qwcvmsswq",
+      "name": "Kankuro 14",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 6616
+    },
+    {
+      "id": "char_571_9o43v8da3",
+      "name": "Shikamaru 14",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 5839
+    },
+    {
+      "id": "char_572_16xdofhj1",
+      "name": "Ino 14",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 6082
+    },
+    {
+      "id": "char_573_yj0d2j5bf",
+      "name": "Choji 14",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 7631
+    },
+    {
+      "id": "char_574_72bgeacix",
+      "name": "Kiba 14",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 4221
+    },
+    {
+      "id": "char_575_pn38txmve",
+      "name": "Shino 14",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 6942
+    },
+    {
+      "id": "char_576_uihrqw7lb",
+      "name": "Zabuza 14",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 143
+    },
+    {
+      "id": "char_577_a9s3md5vr",
+      "name": "Haku 14",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 1658
+    },
+    {
+      "id": "char_578_cm6tew5zq",
+      "name": "Kisame 14",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 9506
+    },
+    {
+      "id": "char_579_5iapsxadg",
+      "name": "Itachi 14",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 2587
+    },
+    {
+      "id": "char_580_uxeaz0b1e",
+      "name": "Deidara 14",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 8701
+    },
+    {
+      "id": "char_581_lsdfz6f25",
+      "name": "Sasori 14",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 2313
+    },
+    {
+      "id": "char_582_3z3xau609",
+      "name": "Orochimaru 14",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 6022
+    },
+    {
+      "id": "char_583_lj252jom1",
+      "name": "Jiraiya 14",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 1356
+    },
+    {
+      "id": "char_584_pzrf2izy1",
+      "name": "Tsunade 14",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 6856
+    },
+    {
+      "id": "char_585_r8f5wfesi",
+      "name": "Minato 14",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 7759
+    },
+    {
+      "id": "char_586_up32v50cv",
+      "name": "Kushina 14",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 1265
+    },
+    {
+      "id": "char_587_w27fjf9j8",
+      "name": "Obito 14",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 9032
+    },
+    {
+      "id": "char_588_3svo5ch2p",
+      "name": "Rin 14",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 446
+    },
+    {
+      "id": "char_589_1j26cxovu",
+      "name": "Yamato 14",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 2718
+    },
+    {
+      "id": "char_590_k1p2fjcf8",
+      "name": "Asuma 14",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 7947
+    },
+    {
+      "id": "char_591_zfpuzkka4",
+      "name": "Kurenai 14",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 2383
+    },
+    {
+      "id": "char_592_xo3xk86yd",
+      "name": "Might Guy 14",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 8935
+    },
+    {
+      "id": "char_593_l682i972l",
+      "name": "Anko 14",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 395
+    },
+    {
+      "id": "char_594_coo3zrrkf",
+      "name": "Iruka 14",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 4144
+    },
+    {
+      "id": "char_595_gr6tjxxfl",
+      "name": "Konohamaru 14",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 8234
+    },
+    {
+      "id": "char_596_4q88jk0g6",
+      "name": "Hanabi 14",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 7373
+    },
+    {
+      "id": "char_597_us6zg2hnq",
+      "name": "Karin 14",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 3394
+    },
+    {
+      "id": "char_598_0u4h8aiog",
+      "name": "Suigetsu 14",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 5866
+    },
+    {
+      "id": "char_599_5aw2v5sue",
+      "name": "Jugo 14",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 5102
+    },
+    {
+      "id": "char_600_irstpdldc",
+      "name": "Naruto 15",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 5496
+    },
+    {
+      "id": "char_601_3umxhr07p",
+      "name": "Sasuke 15",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 5502
+    },
+    {
+      "id": "char_602_iib2hmjh4",
+      "name": "Sakura 15",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 2828
+    },
+    {
+      "id": "char_603_ko9932box",
+      "name": "Kakashi 15",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 7686
+    },
+    {
+      "id": "char_604_9ut3m1btk",
+      "name": "Hinata 15",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 4681
+    },
+    {
+      "id": "char_605_7m05fc1mo",
+      "name": "Rock Lee 15",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 9046
+    },
+    {
+      "id": "char_606_or17153gz",
+      "name": "Neji 15",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 6028
+    },
+    {
+      "id": "char_607_7kfelutak",
+      "name": "Tenten 15",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 4367
+    },
+    {
+      "id": "char_608_4lf7lhogi",
+      "name": "Gaara 15",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 8778
+    },
+    {
+      "id": "char_609_adkdutdwc",
+      "name": "Temari 15",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 9789
+    },
+    {
+      "id": "char_610_hazgijehu",
+      "name": "Kankuro 15",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 3845
+    },
+    {
+      "id": "char_611_lsq5n1aeb",
+      "name": "Shikamaru 15",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 8210
+    },
+    {
+      "id": "char_612_5pu9fv81o",
+      "name": "Ino 15",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 3730
+    },
+    {
+      "id": "char_613_p1df583do",
+      "name": "Choji 15",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 3738
+    },
+    {
+      "id": "char_614_hf4ggmxl3",
+      "name": "Kiba 15",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 4821
+    },
+    {
+      "id": "char_615_zoyr39vxs",
+      "name": "Shino 15",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 6165
+    },
+    {
+      "id": "char_616_242up62l6",
+      "name": "Zabuza 15",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 5047
+    },
+    {
+      "id": "char_617_9uamz7l82",
+      "name": "Haku 15",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 2849
+    },
+    {
+      "id": "char_618_n1ici069m",
+      "name": "Kisame 15",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 4535
+    },
+    {
+      "id": "char_619_d9bsv3nhs",
+      "name": "Itachi 15",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 6956
+    },
+    {
+      "id": "char_620_f79oysii2",
+      "name": "Deidara 15",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 8984
+    },
+    {
+      "id": "char_621_zslqqsnok",
+      "name": "Sasori 15",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 2022
+    },
+    {
+      "id": "char_622_4pd8p3ftq",
+      "name": "Orochimaru 15",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 8823
+    },
+    {
+      "id": "char_623_e6z0yjhh5",
+      "name": "Jiraiya 15",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 7078
+    },
+    {
+      "id": "char_624_djgs2cgpp",
+      "name": "Tsunade 15",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 2039
+    },
+    {
+      "id": "char_625_iw4esolbv",
+      "name": "Minato 15",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 1586
+    },
+    {
+      "id": "char_626_kcto28133",
+      "name": "Kushina 15",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 155
+    },
+    {
+      "id": "char_627_a9u8ltkj0",
+      "name": "Obito 15",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 2651
+    },
+    {
+      "id": "char_628_qn0mqnz2w",
+      "name": "Rin 15",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 4944
+    },
+    {
+      "id": "char_629_o9swyndrf",
+      "name": "Yamato 15",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 3022
+    },
+    {
+      "id": "char_630_rdv66gr2o",
+      "name": "Asuma 15",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 643
+    },
+    {
+      "id": "char_631_c7ekitytz",
+      "name": "Kurenai 15",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 7611
+    },
+    {
+      "id": "char_632_s45w4xgic",
+      "name": "Might Guy 15",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 1789
+    },
+    {
+      "id": "char_633_9gs04m3le",
+      "name": "Anko 15",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 4378
+    },
+    {
+      "id": "char_634_zxdspndq0",
+      "name": "Iruka 15",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 3204
+    },
+    {
+      "id": "char_635_ddc97zow5",
+      "name": "Konohamaru 15",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 4707
+    },
+    {
+      "id": "char_636_ri185i3yr",
+      "name": "Hanabi 15",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 6017
+    },
+    {
+      "id": "char_637_gi9xtn0ft",
+      "name": "Karin 15",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 4036
+    },
+    {
+      "id": "char_638_elua7tr9u",
+      "name": "Suigetsu 15",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 7633
+    },
+    {
+      "id": "char_639_2pwcjzzet",
+      "name": "Jugo 15",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 8054
+    },
+    {
+      "id": "char_640_8ziebc8z7",
+      "name": "Naruto 16",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 853
+    },
+    {
+      "id": "char_641_nfbwjzlf8",
+      "name": "Sasuke 16",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 9263
+    },
+    {
+      "id": "char_642_2opdcfk27",
+      "name": "Sakura 16",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 8730
+    },
+    {
+      "id": "char_643_hrhnmpxnz",
+      "name": "Kakashi 16",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 9474
+    },
+    {
+      "id": "char_644_ifg00q760",
+      "name": "Hinata 16",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 3843
+    },
+    {
+      "id": "char_645_jmkl385a2",
+      "name": "Rock Lee 16",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 6201
+    },
+    {
+      "id": "char_646_lb6dj0ybi",
+      "name": "Neji 16",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 3429
+    },
+    {
+      "id": "char_647_b2tzxqdvv",
+      "name": "Tenten 16",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 3319
+    },
+    {
+      "id": "char_648_igyq5z4xw",
+      "name": "Gaara 16",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 4981
+    },
+    {
+      "id": "char_649_ox2nwx739",
+      "name": "Temari 16",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 3721
+    },
+    {
+      "id": "char_650_ztv7r1hyc",
+      "name": "Kankuro 16",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 8348
+    },
+    {
+      "id": "char_651_xdhy7v1da",
+      "name": "Shikamaru 16",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 1632
+    },
+    {
+      "id": "char_652_un17rwm4g",
+      "name": "Ino 16",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 7036
+    },
+    {
+      "id": "char_653_ne6si7v33",
+      "name": "Choji 16",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 1802
+    },
+    {
+      "id": "char_654_ftpxmyf9p",
+      "name": "Kiba 16",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 7726
+    },
+    {
+      "id": "char_655_ambhjhuyx",
+      "name": "Shino 16",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 8669
+    },
+    {
+      "id": "char_656_azbbe7slw",
+      "name": "Zabuza 16",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 4379
+    },
+    {
+      "id": "char_657_b0pcgge1w",
+      "name": "Haku 16",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 5761
+    },
+    {
+      "id": "char_658_3snzfx2xb",
+      "name": "Kisame 16",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 7328
+    },
+    {
+      "id": "char_659_r8eezyili",
+      "name": "Itachi 16",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 3390
+    },
+    {
+      "id": "char_660_liapah6gu",
+      "name": "Deidara 16",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 5847
+    },
+    {
+      "id": "char_661_i4t1i94io",
+      "name": "Sasori 16",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 8927
+    },
+    {
+      "id": "char_662_pjnfdg20g",
+      "name": "Orochimaru 16",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 4350
+    },
+    {
+      "id": "char_663_6c9uslrjt",
+      "name": "Jiraiya 16",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 2292
+    },
+    {
+      "id": "char_664_hxb9pcjaz",
+      "name": "Tsunade 16",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 382
+    },
+    {
+      "id": "char_665_n71bb9p2c",
+      "name": "Minato 16",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 2688
+    },
+    {
+      "id": "char_666_wlaf6npte",
+      "name": "Kushina 16",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 4594
+    },
+    {
+      "id": "char_667_rvexaf256",
+      "name": "Obito 16",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 5163
+    },
+    {
+      "id": "char_668_v92ca4ga1",
+      "name": "Rin 16",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 326
+    },
+    {
+      "id": "char_669_zhilg4bkh",
+      "name": "Yamato 16",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 7970
+    },
+    {
+      "id": "char_670_ax4osbl61",
+      "name": "Asuma 16",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 10000
+    },
+    {
+      "id": "char_671_s4ib0192l",
+      "name": "Kurenai 16",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 4486
+    },
+    {
+      "id": "char_672_7amefrode",
+      "name": "Might Guy 16",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 1310
+    },
+    {
+      "id": "char_673_5tv3d4fdz",
+      "name": "Anko 16",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 7880
+    },
+    {
+      "id": "char_674_o0xqll9of",
+      "name": "Iruka 16",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 6603
+    },
+    {
+      "id": "char_675_38c6p5g4z",
+      "name": "Konohamaru 16",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 9589
+    },
+    {
+      "id": "char_676_uzacs26hn",
+      "name": "Hanabi 16",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 5788
+    },
+    {
+      "id": "char_677_r2wmitfxn",
+      "name": "Karin 16",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 9988
+    },
+    {
+      "id": "char_678_bhzwcublf",
+      "name": "Suigetsu 16",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 3497
+    },
+    {
+      "id": "char_679_ked7cs56h",
+      "name": "Jugo 16",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 3469
+    },
+    {
+      "id": "char_680_wdnqsgsdh",
+      "name": "Naruto 17",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 8952
+    },
+    {
+      "id": "char_681_ai2hnqe9a",
+      "name": "Sasuke 17",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 8673
+    },
+    {
+      "id": "char_682_qjg48qp8x",
+      "name": "Sakura 17",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 385
+    },
+    {
+      "id": "char_683_17omw6xd8",
+      "name": "Kakashi 17",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 3081
+    },
+    {
+      "id": "char_684_ia4aimj7u",
+      "name": "Hinata 17",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 208
+    },
+    {
+      "id": "char_685_tj72nrjtt",
+      "name": "Rock Lee 17",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 2349
+    },
+    {
+      "id": "char_686_s9js2lhqh",
+      "name": "Neji 17",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 6176
+    },
+    {
+      "id": "char_687_jwzxgtqeq",
+      "name": "Tenten 17",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 4923
+    },
+    {
+      "id": "char_688_772wcbqrh",
+      "name": "Gaara 17",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 7876
+    },
+    {
+      "id": "char_689_7s4fy0a4q",
+      "name": "Temari 17",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 7280
+    },
+    {
+      "id": "char_690_kd6oktnla",
+      "name": "Kankuro 17",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 9894
+    },
+    {
+      "id": "char_691_s3ybv0c2n",
+      "name": "Shikamaru 17",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 5006
+    },
+    {
+      "id": "char_692_hqjtt9oyi",
+      "name": "Ino 17",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 3534
+    },
+    {
+      "id": "char_693_1won4uci0",
+      "name": "Choji 17",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 410
+    },
+    {
+      "id": "char_694_mqj1p7zfx",
+      "name": "Kiba 17",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 1530
+    },
+    {
+      "id": "char_695_0hr6k5p4l",
+      "name": "Shino 17",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 2054
+    },
+    {
+      "id": "char_696_guc48aj0t",
+      "name": "Zabuza 17",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 1032
+    },
+    {
+      "id": "char_697_rrs2n5rwu",
+      "name": "Haku 17",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 6595
+    },
+    {
+      "id": "char_698_6hhi5d5sx",
+      "name": "Kisame 17",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 4240
+    },
+    {
+      "id": "char_699_zw0pr5lu1",
+      "name": "Itachi 17",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 2001
+    },
+    {
+      "id": "char_700_3nnu26qes",
+      "name": "Deidara 17",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 7717
+    },
+    {
+      "id": "char_701_55l5cd0i7",
+      "name": "Sasori 17",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 7648
+    },
+    {
+      "id": "char_702_77am0xea0",
+      "name": "Orochimaru 17",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 4869
+    },
+    {
+      "id": "char_703_u9fx1x32e",
+      "name": "Jiraiya 17",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 9258
+    },
+    {
+      "id": "char_704_0giqget5i",
+      "name": "Tsunade 17",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 4739
+    },
+    {
+      "id": "char_705_lkuuirixs",
+      "name": "Minato 17",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 2632
+    },
+    {
+      "id": "char_706_01sqzp5vj",
+      "name": "Kushina 17",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 688
+    },
+    {
+      "id": "char_707_jsotutgje",
+      "name": "Obito 17",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 6254
+    },
+    {
+      "id": "char_708_rnfckp4zy",
+      "name": "Rin 17",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 5883
+    },
+    {
+      "id": "char_709_ot3nmso8f",
+      "name": "Yamato 17",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 786
+    },
+    {
+      "id": "char_710_nj87yo7a4",
+      "name": "Asuma 17",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 4358
+    },
+    {
+      "id": "char_711_ro6ejjzp7",
+      "name": "Kurenai 17",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 2021
+    },
+    {
+      "id": "char_712_wblxe6i5q",
+      "name": "Might Guy 17",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 3861
+    },
+    {
+      "id": "char_713_jpwqo1itk",
+      "name": "Anko 17",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 1643
+    },
+    {
+      "id": "char_714_tt5d1j1t1",
+      "name": "Iruka 17",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 4694
+    },
+    {
+      "id": "char_715_w2cstcl8s",
+      "name": "Konohamaru 17",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 4001
+    },
+    {
+      "id": "char_716_1z2gvjro3",
+      "name": "Hanabi 17",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 8547
+    },
+    {
+      "id": "char_717_gdqsyz195",
+      "name": "Karin 17",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 892
+    },
+    {
+      "id": "char_718_afuaziad3",
+      "name": "Suigetsu 17",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 143
+    },
+    {
+      "id": "char_719_8apqv1uel",
+      "name": "Jugo 17",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 7071
+    },
+    {
+      "id": "char_720_7f5iq1vzb",
+      "name": "Naruto 18",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 7405
+    },
+    {
+      "id": "char_721_to4qscote",
+      "name": "Sasuke 18",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 1563
+    },
+    {
+      "id": "char_722_yc9cmlud6",
+      "name": "Sakura 18",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 4114
+    },
+    {
+      "id": "char_723_w155y14du",
+      "name": "Kakashi 18",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 5087
+    },
+    {
+      "id": "char_724_u0yi6ie1g",
+      "name": "Hinata 18",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 7822
+    },
+    {
+      "id": "char_725_iodw34zi0",
+      "name": "Rock Lee 18",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 4891
+    },
+    {
+      "id": "char_726_ws6g8130e",
+      "name": "Neji 18",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 5868
+    },
+    {
+      "id": "char_727_riqogalxj",
+      "name": "Tenten 18",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 1766
+    },
+    {
+      "id": "char_728_i5yftc6c3",
+      "name": "Gaara 18",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 2348
+    },
+    {
+      "id": "char_729_bxix6yvi5",
+      "name": "Temari 18",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 6364
+    },
+    {
+      "id": "char_730_lv0p5km1u",
+      "name": "Kankuro 18",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 8774
+    },
+    {
+      "id": "char_731_6boejvioa",
+      "name": "Shikamaru 18",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 9221
+    },
+    {
+      "id": "char_732_3ayyuafro",
+      "name": "Ino 18",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 3819
+    },
+    {
+      "id": "char_733_8582pyj17",
+      "name": "Choji 18",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 6892
+    },
+    {
+      "id": "char_734_2zvr51pbt",
+      "name": "Kiba 18",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 9417
+    },
+    {
+      "id": "char_735_7wzfmk8bc",
+      "name": "Shino 18",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 7005
+    },
+    {
+      "id": "char_736_wp8fur82x",
+      "name": "Zabuza 18",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 5908
+    },
+    {
+      "id": "char_737_aitq05y3x",
+      "name": "Haku 18",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 6777
+    },
+    {
+      "id": "char_738_kaw6w9c4i",
+      "name": "Kisame 18",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 9649
+    },
+    {
+      "id": "char_739_obrrqdwj1",
+      "name": "Itachi 18",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 8704
+    },
+    {
+      "id": "char_740_kapygg4m5",
+      "name": "Deidara 18",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 4265
+    },
+    {
+      "id": "char_741_4t1r46aaf",
+      "name": "Sasori 18",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 3117
+    },
+    {
+      "id": "char_742_gazzbd08l",
+      "name": "Orochimaru 18",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 6856
+    },
+    {
+      "id": "char_743_yu1m4547f",
+      "name": "Jiraiya 18",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 1071
+    },
+    {
+      "id": "char_744_vzga0kinq",
+      "name": "Tsunade 18",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 169
+    },
+    {
+      "id": "char_745_jtx8dppa2",
+      "name": "Minato 18",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 2477
+    },
+    {
+      "id": "char_746_8xtlzr5z0",
+      "name": "Kushina 18",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 468
+    },
+    {
+      "id": "char_747_gy6bztaa5",
+      "name": "Obito 18",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 5899
+    },
+    {
+      "id": "char_748_h1ddt25tk",
+      "name": "Rin 18",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 5815
+    },
+    {
+      "id": "char_749_teepidnzr",
+      "name": "Yamato 18",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 9726
+    },
+    {
+      "id": "char_750_42arrpm9m",
+      "name": "Asuma 18",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 5517
+    },
+    {
+      "id": "char_751_lsosqoqbz",
+      "name": "Kurenai 18",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 5944
+    },
+    {
+      "id": "char_752_y4dslcpmd",
+      "name": "Might Guy 18",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 5943
+    },
+    {
+      "id": "char_753_6ie5urrc9",
+      "name": "Anko 18",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 3596
+    },
+    {
+      "id": "char_754_s3h25dt6o",
+      "name": "Iruka 18",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 1341
+    },
+    {
+      "id": "char_755_a9uea0z15",
+      "name": "Konohamaru 18",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 8963
+    },
+    {
+      "id": "char_756_zojkpa3xl",
+      "name": "Hanabi 18",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 2846
+    },
+    {
+      "id": "char_757_k27ehdz7v",
+      "name": "Karin 18",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 5771
+    },
+    {
+      "id": "char_758_dc3pzzcgd",
+      "name": "Suigetsu 18",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 7862
+    },
+    {
+      "id": "char_759_emazj603y",
+      "name": "Jugo 18",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 7428
+    },
+    {
+      "id": "char_760_zrrddisyv",
+      "name": "Naruto 19",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 1991
+    },
+    {
+      "id": "char_761_l6hvx1qxu",
+      "name": "Sasuke 19",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 9119
+    },
+    {
+      "id": "char_762_syvv8yd2f",
+      "name": "Sakura 19",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 6879
+    },
+    {
+      "id": "char_763_d1iy7gxyi",
+      "name": "Kakashi 19",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 7064
+    },
+    {
+      "id": "char_764_c3es8ep9e",
+      "name": "Hinata 19",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 8949
+    },
+    {
+      "id": "char_765_588ie81we",
+      "name": "Rock Lee 19",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 3330
+    },
+    {
+      "id": "char_766_8wh9untz3",
+      "name": "Neji 19",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 3804
+    },
+    {
+      "id": "char_767_430uungv2",
+      "name": "Tenten 19",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 9388
+    },
+    {
+      "id": "char_768_1wav8b6wd",
+      "name": "Gaara 19",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 1206
+    },
+    {
+      "id": "char_769_z9hre6v6z",
+      "name": "Temari 19",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 9784
+    },
+    {
+      "id": "char_770_rmgszxqk4",
+      "name": "Kankuro 19",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 5851
+    },
+    {
+      "id": "char_771_49zr3s57i",
+      "name": "Shikamaru 19",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 5860
+    },
+    {
+      "id": "char_772_xhu8o9is6",
+      "name": "Ino 19",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 6799
+    },
+    {
+      "id": "char_773_8nf55k6ao",
+      "name": "Choji 19",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 111
+    },
+    {
+      "id": "char_774_14vy9g4o5",
+      "name": "Kiba 19",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 4345
+    },
+    {
+      "id": "char_775_rb6d74oq4",
+      "name": "Shino 19",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 4488
+    },
+    {
+      "id": "char_776_erafgucy5",
+      "name": "Zabuza 19",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 9699
+    },
+    {
+      "id": "char_777_81d1byox8",
+      "name": "Haku 19",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 1909
+    },
+    {
+      "id": "char_778_fcn0he9bn",
+      "name": "Kisame 19",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 4555
+    },
+    {
+      "id": "char_779_zm7hvvygi",
+      "name": "Itachi 19",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 2865
+    },
+    {
+      "id": "char_780_03qdckg32",
+      "name": "Deidara 19",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 1297
+    },
+    {
+      "id": "char_781_ymr979y7x",
+      "name": "Sasori 19",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 1844
+    },
+    {
+      "id": "char_782_zlx5ewbg1",
+      "name": "Orochimaru 19",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 6853
+    },
+    {
+      "id": "char_783_xhhni4ta6",
+      "name": "Jiraiya 19",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 832
+    },
+    {
+      "id": "char_784_4gfx90qsv",
+      "name": "Tsunade 19",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 7372
+    },
+    {
+      "id": "char_785_5mij9ujee",
+      "name": "Minato 19",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 1938
+    },
+    {
+      "id": "char_786_jge3716ya",
+      "name": "Kushina 19",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 5499
+    },
+    {
+      "id": "char_787_47s4ufun0",
+      "name": "Obito 19",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 4884
+    },
+    {
+      "id": "char_788_ld79bzo6d",
+      "name": "Rin 19",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 7845
+    },
+    {
+      "id": "char_789_4jow01ofz",
+      "name": "Yamato 19",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 5131
+    },
+    {
+      "id": "char_790_97a4vprzc",
+      "name": "Asuma 19",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 8299
+    },
+    {
+      "id": "char_791_8jf4yea0g",
+      "name": "Kurenai 19",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 4539
+    },
+    {
+      "id": "char_792_6tif840cm",
+      "name": "Might Guy 19",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 9667
+    },
+    {
+      "id": "char_793_cpczh4ngp",
+      "name": "Anko 19",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 9813
+    },
+    {
+      "id": "char_794_furkicsoe",
+      "name": "Iruka 19",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 9414
+    },
+    {
+      "id": "char_795_0r3q50nrg",
+      "name": "Konohamaru 19",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 4481
+    },
+    {
+      "id": "char_796_n08kb4d3d",
+      "name": "Hanabi 19",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 7055
+    },
+    {
+      "id": "char_797_d9aflur7r",
+      "name": "Karin 19",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 4498
+    },
+    {
+      "id": "char_798_8l4xcynoz",
+      "name": "Suigetsu 19",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 8150
+    },
+    {
+      "id": "char_799_d7wkt57f3",
+      "name": "Jugo 19",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 9842
+    },
+    {
+      "id": "char_800_jiuoqrkgw",
+      "name": "Naruto 20",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 517
+    },
+    {
+      "id": "char_801_7s8fav22v",
+      "name": "Sasuke 20",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 7334
+    },
+    {
+      "id": "char_802_r3i7e31a8",
+      "name": "Sakura 20",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 1993
+    },
+    {
+      "id": "char_803_g5xqp97rq",
+      "name": "Kakashi 20",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 2645
+    },
+    {
+      "id": "char_804_2x26wcdus",
+      "name": "Hinata 20",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 2209
+    },
+    {
+      "id": "char_805_6rq9b6hgr",
+      "name": "Rock Lee 20",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 6285
+    },
+    {
+      "id": "char_806_saxk0zigu",
+      "name": "Neji 20",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 560
+    },
+    {
+      "id": "char_807_ernego6yd",
+      "name": "Tenten 20",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 6359
+    },
+    {
+      "id": "char_808_jc06ukkfc",
+      "name": "Gaara 20",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 5352
+    },
+    {
+      "id": "char_809_dkfg1hrqy",
+      "name": "Temari 20",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 6919
+    },
+    {
+      "id": "char_810_lkv60ucpx",
+      "name": "Kankuro 20",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 8741
+    },
+    {
+      "id": "char_811_lvn6879bb",
+      "name": "Shikamaru 20",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 2507
+    },
+    {
+      "id": "char_812_vz7xpb12i",
+      "name": "Ino 20",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 7980
+    },
+    {
+      "id": "char_813_e87vike1p",
+      "name": "Choji 20",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 9403
+    },
+    {
+      "id": "char_814_znr2srgqk",
+      "name": "Kiba 20",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 1442
+    },
+    {
+      "id": "char_815_1kjzwcy1q",
+      "name": "Shino 20",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 7083
+    },
+    {
+      "id": "char_816_b805vuelm",
+      "name": "Zabuza 20",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 2985
+    },
+    {
+      "id": "char_817_ln1urq6cm",
+      "name": "Haku 20",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 2209
+    },
+    {
+      "id": "char_818_wh9n26g9z",
+      "name": "Kisame 20",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 4214
+    },
+    {
+      "id": "char_819_c03mrt7s1",
+      "name": "Itachi 20",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 8329
+    },
+    {
+      "id": "char_820_8kd8im9ud",
+      "name": "Deidara 20",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 9355
+    },
+    {
+      "id": "char_821_s8dn25ccl",
+      "name": "Sasori 20",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 8366
+    },
+    {
+      "id": "char_822_gpggwvo8g",
+      "name": "Orochimaru 20",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 4110
+    },
+    {
+      "id": "char_823_yfog54dwb",
+      "name": "Jiraiya 20",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 5752
+    },
+    {
+      "id": "char_824_2z7jg0auf",
+      "name": "Tsunade 20",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 1132
+    },
+    {
+      "id": "char_825_ec6q9aw6u",
+      "name": "Minato 20",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 6772
+    },
+    {
+      "id": "char_826_6d99lcrw4",
+      "name": "Kushina 20",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 4868
+    },
+    {
+      "id": "char_827_won1ycuw8",
+      "name": "Obito 20",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 7848
+    },
+    {
+      "id": "char_828_6z6myyazw",
+      "name": "Rin 20",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 8736
+    },
+    {
+      "id": "char_829_kyoresiau",
+      "name": "Yamato 20",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 7259
+    },
+    {
+      "id": "char_830_ck2azrejg",
+      "name": "Asuma 20",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 9880
+    },
+    {
+      "id": "char_831_xgtx1v88m",
+      "name": "Kurenai 20",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 5254
+    },
+    {
+      "id": "char_832_cbdqxcqwh",
+      "name": "Might Guy 20",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 574
+    },
+    {
+      "id": "char_833_g50kqnalt",
+      "name": "Anko 20",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 8092
+    },
+    {
+      "id": "char_834_t73se9ivg",
+      "name": "Iruka 20",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 5226
+    },
+    {
+      "id": "char_835_9nnqgh4as",
+      "name": "Konohamaru 20",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 1858
+    },
+    {
+      "id": "char_836_oglycy33u",
+      "name": "Hanabi 20",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 9972
+    },
+    {
+      "id": "char_837_nb1mlrat2",
+      "name": "Karin 20",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 371
+    },
+    {
+      "id": "char_838_ybivdn8pp",
+      "name": "Suigetsu 20",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 9867
+    },
+    {
+      "id": "char_839_m4b4fh51b",
+      "name": "Jugo 20",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 8764
+    },
+    {
+      "id": "char_840_do0ch94d3",
+      "name": "Naruto 21",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 3396
+    },
+    {
+      "id": "char_841_3gw566inx",
+      "name": "Sasuke 21",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 7300
+    },
+    {
+      "id": "char_842_3l0s88r0b",
+      "name": "Sakura 21",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 1270
+    },
+    {
+      "id": "char_843_jmdmdo5ta",
+      "name": "Kakashi 21",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 4581
+    },
+    {
+      "id": "char_844_ulud0nysk",
+      "name": "Hinata 21",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 4399
+    },
+    {
+      "id": "char_845_l9z5hht0g",
+      "name": "Rock Lee 21",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 1143
+    },
+    {
+      "id": "char_846_5jebvwod8",
+      "name": "Neji 21",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 4044
+    },
+    {
+      "id": "char_847_cax9nazq1",
+      "name": "Tenten 21",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 7394
+    },
+    {
+      "id": "char_848_qz343a660",
+      "name": "Gaara 21",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 3834
+    },
+    {
+      "id": "char_849_qglrjs1dd",
+      "name": "Temari 21",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 1123
+    },
+    {
+      "id": "char_850_0eckt725c",
+      "name": "Kankuro 21",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 1290
+    },
+    {
+      "id": "char_851_0sdcz4xzp",
+      "name": "Shikamaru 21",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 2643
+    },
+    {
+      "id": "char_852_pmea8btb1",
+      "name": "Ino 21",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 4170
+    },
+    {
+      "id": "char_853_yagtoq5bx",
+      "name": "Choji 21",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 6020
+    },
+    {
+      "id": "char_854_p4e6ybocu",
+      "name": "Kiba 21",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 4424
+    },
+    {
+      "id": "char_855_ds3pbq3zl",
+      "name": "Shino 21",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 3424
+    },
+    {
+      "id": "char_856_l8q0qrm7r",
+      "name": "Zabuza 21",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 1331
+    },
+    {
+      "id": "char_857_qq3mdp6ux",
+      "name": "Haku 21",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 3244
+    },
+    {
+      "id": "char_858_i16g6ipif",
+      "name": "Kisame 21",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 4866
+    },
+    {
+      "id": "char_859_noaybe2la",
+      "name": "Itachi 21",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 5493
+    },
+    {
+      "id": "char_860_s5zpyd7gu",
+      "name": "Deidara 21",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 1394
+    },
+    {
+      "id": "char_861_eb8u04tbk",
+      "name": "Sasori 21",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 7301
+    },
+    {
+      "id": "char_862_9lx5n8utp",
+      "name": "Orochimaru 21",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 6758
+    },
+    {
+      "id": "char_863_k740qf4pc",
+      "name": "Jiraiya 21",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 1414
+    },
+    {
+      "id": "char_864_r42arrevz",
+      "name": "Tsunade 21",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 2012
+    },
+    {
+      "id": "char_865_1jtpgpvhe",
+      "name": "Minato 21",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 2246
+    },
+    {
+      "id": "char_866_x9qbqjz3y",
+      "name": "Kushina 21",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 6688
+    },
+    {
+      "id": "char_867_nour4d969",
+      "name": "Obito 21",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 9604
+    },
+    {
+      "id": "char_868_byswdfxjl",
+      "name": "Rin 21",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 2401
+    },
+    {
+      "id": "char_869_e9tspivwu",
+      "name": "Yamato 21",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 8889
+    },
+    {
+      "id": "char_870_w6c1598v0",
+      "name": "Asuma 21",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 5637
+    },
+    {
+      "id": "char_871_ze91hsrq2",
+      "name": "Kurenai 21",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 8216
+    },
+    {
+      "id": "char_872_2knfpzhq6",
+      "name": "Might Guy 21",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 4116
+    },
+    {
+      "id": "char_873_2acbfuyyc",
+      "name": "Anko 21",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 7025
+    },
+    {
+      "id": "char_874_2gd8tzkbt",
+      "name": "Iruka 21",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 2046
+    },
+    {
+      "id": "char_875_7vugjryzv",
+      "name": "Konohamaru 21",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 2989
+    },
+    {
+      "id": "char_876_tq9vqtd1w",
+      "name": "Hanabi 21",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 4554
+    },
+    {
+      "id": "char_877_uaaqsdog7",
+      "name": "Karin 21",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 8176
+    },
+    {
+      "id": "char_878_2x3tyquzo",
+      "name": "Suigetsu 21",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 7621
+    },
+    {
+      "id": "char_879_3kejw3g1e",
+      "name": "Jugo 21",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 2959
+    },
+    {
+      "id": "char_880_h4k51yso0",
+      "name": "Naruto 22",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 3429
+    },
+    {
+      "id": "char_881_j673m7pc7",
+      "name": "Sasuke 22",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 1454
+    },
+    {
+      "id": "char_882_wz9y5biso",
+      "name": "Sakura 22",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 6075
+    },
+    {
+      "id": "char_883_gqi4jk5fu",
+      "name": "Kakashi 22",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 1861
+    },
+    {
+      "id": "char_884_zrz30ib57",
+      "name": "Hinata 22",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 5302
+    },
+    {
+      "id": "char_885_pfdssvp2h",
+      "name": "Rock Lee 22",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 5450
+    },
+    {
+      "id": "char_886_738u73pqf",
+      "name": "Neji 22",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 9301
+    },
+    {
+      "id": "char_887_7vuoj3vaf",
+      "name": "Tenten 22",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 1378
+    },
+    {
+      "id": "char_888_03heawiec",
+      "name": "Gaara 22",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 1632
+    },
+    {
+      "id": "char_889_9mb0su97x",
+      "name": "Temari 22",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 2996
+    },
+    {
+      "id": "char_890_c8yp8cs72",
+      "name": "Kankuro 22",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 5783
+    },
+    {
+      "id": "char_891_slasbdwpl",
+      "name": "Shikamaru 22",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 2857
+    },
+    {
+      "id": "char_892_9e2n3zt9k",
+      "name": "Ino 22",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 8029
+    },
+    {
+      "id": "char_893_s35h07v0j",
+      "name": "Choji 22",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 8819
+    },
+    {
+      "id": "char_894_v7fecbywp",
+      "name": "Kiba 22",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 5964
+    },
+    {
+      "id": "char_895_ics1bgs86",
+      "name": "Shino 22",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 2462
+    },
+    {
+      "id": "char_896_xtp80t7ss",
+      "name": "Zabuza 22",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 9275
+    },
+    {
+      "id": "char_897_6tpvj0e1v",
+      "name": "Haku 22",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 312
+    },
+    {
+      "id": "char_898_0s964hhuh",
+      "name": "Kisame 22",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 9158
+    },
+    {
+      "id": "char_899_d43nk149b",
+      "name": "Itachi 22",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 2130
+    },
+    {
+      "id": "char_900_h6kvu7l3k",
+      "name": "Deidara 22",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 8559
+    },
+    {
+      "id": "char_901_opmyf1vqn",
+      "name": "Sasori 22",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 6953
+    },
+    {
+      "id": "char_902_ijj5xpe2b",
+      "name": "Orochimaru 22",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 894
+    },
+    {
+      "id": "char_903_pjvjc69u9",
+      "name": "Jiraiya 22",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 4156
+    },
+    {
+      "id": "char_904_ebopeqcm7",
+      "name": "Tsunade 22",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 8438
+    },
+    {
+      "id": "char_905_a8ic4avty",
+      "name": "Minato 22",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 9524
+    },
+    {
+      "id": "char_906_2vwenlh3y",
+      "name": "Kushina 22",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 4726
+    },
+    {
+      "id": "char_907_hgk0uvds2",
+      "name": "Obito 22",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 8436
+    },
+    {
+      "id": "char_908_twnj041k0",
+      "name": "Rin 22",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 7987
+    },
+    {
+      "id": "char_909_nu52dj3j9",
+      "name": "Yamato 22",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 4278
+    },
+    {
+      "id": "char_910_0lcntqd96",
+      "name": "Asuma 22",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 5577
+    },
+    {
+      "id": "char_911_bvdt5eohj",
+      "name": "Kurenai 22",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 7670
+    },
+    {
+      "id": "char_912_ngfhzikih",
+      "name": "Might Guy 22",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 4125
+    },
+    {
+      "id": "char_913_gzwaa9nb4",
+      "name": "Anko 22",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 3411
+    },
+    {
+      "id": "char_914_58evhddlu",
+      "name": "Iruka 22",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 1607
+    },
+    {
+      "id": "char_915_teo22hhs2",
+      "name": "Konohamaru 22",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 390
+    },
+    {
+      "id": "char_916_3g4pbl77k",
+      "name": "Hanabi 22",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 8491
+    },
+    {
+      "id": "char_917_89ajc9300",
+      "name": "Karin 22",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 7220
+    },
+    {
+      "id": "char_918_9yo92px2h",
+      "name": "Suigetsu 22",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 6383
+    },
+    {
+      "id": "char_919_7s81awdid",
+      "name": "Jugo 22",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 6039
+    },
+    {
+      "id": "char_920_2dgfe2ly2",
+      "name": "Naruto 23",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 6629
+    },
+    {
+      "id": "char_921_vye923i05",
+      "name": "Sasuke 23",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 4969
+    },
+    {
+      "id": "char_922_jo3at8geb",
+      "name": "Sakura 23",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 9745
+    },
+    {
+      "id": "char_923_1t4or8od4",
+      "name": "Kakashi 23",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 1071
+    },
+    {
+      "id": "char_924_zfnsnm5ov",
+      "name": "Hinata 23",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 2976
+    },
+    {
+      "id": "char_925_itohed9sh",
+      "name": "Rock Lee 23",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 7565
+    },
+    {
+      "id": "char_926_4gebp3cxi",
+      "name": "Neji 23",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 9149
+    },
+    {
+      "id": "char_927_miocrrull",
+      "name": "Tenten 23",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 9857
+    },
+    {
+      "id": "char_928_swo0pc2ni",
+      "name": "Gaara 23",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 9914
+    },
+    {
+      "id": "char_929_4gfmq6ode",
+      "name": "Temari 23",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 7042
+    },
+    {
+      "id": "char_930_s34k8cy7m",
+      "name": "Kankuro 23",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 8233
+    },
+    {
+      "id": "char_931_290ki1m0o",
+      "name": "Shikamaru 23",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 3292
+    },
+    {
+      "id": "char_932_iqax2kd1c",
+      "name": "Ino 23",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 2334
+    },
+    {
+      "id": "char_933_kdao05kgm",
+      "name": "Choji 23",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 3601
+    },
+    {
+      "id": "char_934_g43zmevt0",
+      "name": "Kiba 23",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 5644
+    },
+    {
+      "id": "char_935_02d1zgldl",
+      "name": "Shino 23",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 6895
+    },
+    {
+      "id": "char_936_yz9cqx6gp",
+      "name": "Zabuza 23",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 9512
+    },
+    {
+      "id": "char_937_qimuqbehw",
+      "name": "Haku 23",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 1384
+    },
+    {
+      "id": "char_938_in6ndb8pw",
+      "name": "Kisame 23",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 9132
+    },
+    {
+      "id": "char_939_qha6besq8",
+      "name": "Itachi 23",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 710
+    },
+    {
+      "id": "char_940_54c7mvtz2",
+      "name": "Deidara 23",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 7062
+    },
+    {
+      "id": "char_941_einwwkksq",
+      "name": "Sasori 23",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 7424
+    },
+    {
+      "id": "char_942_x938fcetn",
+      "name": "Orochimaru 23",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 9247
+    },
+    {
+      "id": "char_943_9zdtbt3kx",
+      "name": "Jiraiya 23",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 2627
+    },
+    {
+      "id": "char_944_5ogqhi2e9",
+      "name": "Tsunade 23",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 1247
+    },
+    {
+      "id": "char_945_oz2o6hj7n",
+      "name": "Minato 23",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 1458
+    },
+    {
+      "id": "char_946_1cq4k4dbl",
+      "name": "Kushina 23",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 8081
+    },
+    {
+      "id": "char_947_up1gwaljh",
+      "name": "Obito 23",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 100
+    },
+    {
+      "id": "char_948_f3yxox0on",
+      "name": "Rin 23",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 7487
+    },
+    {
+      "id": "char_949_newlotbeb",
+      "name": "Yamato 23",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 7863
+    },
+    {
+      "id": "char_950_x137qko5i",
+      "name": "Asuma 23",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 7620
+    },
+    {
+      "id": "char_951_gfkwl3wg2",
+      "name": "Kurenai 23",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 7837
+    },
+    {
+      "id": "char_952_dhc17k5vn",
+      "name": "Might Guy 23",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 6921
+    },
+    {
+      "id": "char_953_1nphe8q2s",
+      "name": "Anko 23",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 2383
+    },
+    {
+      "id": "char_954_5mgwtqzkx",
+      "name": "Iruka 23",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 1943
+    },
+    {
+      "id": "char_955_77ul2ep8z",
+      "name": "Konohamaru 23",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 9947
+    },
+    {
+      "id": "char_956_uxhz1lfyk",
+      "name": "Hanabi 23",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 869
+    },
+    {
+      "id": "char_957_gdis0ekto",
+      "name": "Karin 23",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 2987
+    },
+    {
+      "id": "char_958_rxsimhmzj",
+      "name": "Suigetsu 23",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 7843
+    },
+    {
+      "id": "char_959_c43ojb8te",
+      "name": "Jugo 23",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 5521
+    },
+    {
+      "id": "char_960_350zyp8vz",
+      "name": "Naruto 24",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 2444
+    },
+    {
+      "id": "char_961_1psal5rpr",
+      "name": "Sasuke 24",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 5334
+    },
+    {
+      "id": "char_962_6845sg5eg",
+      "name": "Sakura 24",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 945
+    },
+    {
+      "id": "char_963_g6yffxsea",
+      "name": "Kakashi 24",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 4471
+    },
+    {
+      "id": "char_964_b9k6t1twt",
+      "name": "Hinata 24",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 7070
+    },
+    {
+      "id": "char_965_zodeysopm",
+      "name": "Rock Lee 24",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 1261
+    },
+    {
+      "id": "char_966_x6hgnk7be",
+      "name": "Neji 24",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 3205
+    },
+    {
+      "id": "char_967_bl1w1hzsg",
+      "name": "Tenten 24",
+      "location": "Konoha",
+      "health": "Critical",
+      "power": 8748
+    },
+    {
+      "id": "char_968_kwavsy4py",
+      "name": "Gaara 24",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 8573
+    },
+    {
+      "id": "char_969_9mbv6ca2j",
+      "name": "Temari 24",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 1039
+    },
+    {
+      "id": "char_970_wionnm8ll",
+      "name": "Kankuro 24",
+      "location": "Iwa",
+      "health": "Critical",
+      "power": 2951
+    },
+    {
+      "id": "char_971_s9ridb97d",
+      "name": "Shikamaru 24",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 4923
+    },
+    {
+      "id": "char_972_f22cfnlyh",
+      "name": "Ino 24",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 2716
+    },
+    {
+      "id": "char_973_fm4vjnlna",
+      "name": "Choji 24",
+      "location": "Kiri",
+      "health": "Critical",
+      "power": 8847
+    },
+    {
+      "id": "char_974_07xjlssma",
+      "name": "Kiba 24",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 6999
+    },
+    {
+      "id": "char_975_pztqsm9xg",
+      "name": "Shino 24",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 5500
+    },
+    {
+      "id": "char_976_5lnl8pdw7",
+      "name": "Zabuza 24",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 2508
+    },
+    {
+      "id": "char_977_syp70qgdt",
+      "name": "Haku 24",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 8650
+    },
+    {
+      "id": "char_978_d0713346t",
+      "name": "Kisame 24",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 7463
+    },
+    {
+      "id": "char_979_pzm4fupac",
+      "name": "Itachi 24",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 287
+    },
+    {
+      "id": "char_980_4wy5oydzx",
+      "name": "Deidara 24",
+      "location": "Kiri",
+      "health": "Injured",
+      "power": 6657
+    },
+    {
+      "id": "char_981_tipc649oo",
+      "name": "Sasori 24",
+      "location": "Kumo",
+      "health": "Healthy",
+      "power": 1506
+    },
+    {
+      "id": "char_982_fsz2dej2f",
+      "name": "Orochimaru 24",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 9663
+    },
+    {
+      "id": "char_983_s89gzg49o",
+      "name": "Jiraiya 24",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 3616
+    },
+    {
+      "id": "char_984_5k6we3xky",
+      "name": "Tsunade 24",
+      "location": "Iwa",
+      "health": "Healthy",
+      "power": 535
+    },
+    {
+      "id": "char_985_oa8rg4p6p",
+      "name": "Minato 24",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 9377
+    },
+    {
+      "id": "char_986_denohj3ol",
+      "name": "Kushina 24",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 3044
+    },
+    {
+      "id": "char_987_awc349vn9",
+      "name": "Obito 24",
+      "location": "Iwa",
+      "health": "Injured",
+      "power": 8875
+    },
+    {
+      "id": "char_988_h63bp6i0r",
+      "name": "Rin 24",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 3811
+    },
+    {
+      "id": "char_989_oz4qkilqr",
+      "name": "Yamato 24",
+      "location": "Kumo",
+      "health": "Critical",
+      "power": 602
+    },
+    {
+      "id": "char_990_64rwhhu68",
+      "name": "Asuma 24",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 2363
+    },
+    {
+      "id": "char_991_0vrp0qdto",
+      "name": "Kurenai 24",
+      "location": "Konoha",
+      "health": "Injured",
+      "power": 1843
+    },
+    {
+      "id": "char_992_8wvrbp00p",
+      "name": "Might Guy 24",
+      "location": "Kumo",
+      "health": "Injured",
+      "power": 730
+    },
+    {
+      "id": "char_993_b5syxj9o9",
+      "name": "Anko 24",
+      "location": "Kiri",
+      "health": "Healthy",
+      "power": 5514
+    },
+    {
+      "id": "char_994_yuwue4vom",
+      "name": "Iruka 24",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 9117
+    },
+    {
+      "id": "char_995_gmkhw6q22",
+      "name": "Konohamaru 24",
+      "location": "Suna",
+      "health": "Critical",
+      "power": 995
+    },
+    {
+      "id": "char_996_4c2excgjk",
+      "name": "Hanabi 24",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 7470
+    },
+    {
+      "id": "char_997_t4mxgbxxp",
+      "name": "Karin 24",
+      "location": "Konoha",
+      "health": "Healthy",
+      "power": 3083
+    },
+    {
+      "id": "char_998_8o9hon1ra",
+      "name": "Suigetsu 24",
+      "location": "Suna",
+      "health": "Injured",
+      "power": 4662
+    },
+    {
+      "id": "char_999_u3uzwkc4k",
+      "name": "Jugo 24",
+      "location": "Suna",
+      "health": "Healthy",
+      "power": 2109
+    }
+  ]
+}
